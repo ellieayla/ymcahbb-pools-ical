@@ -12,8 +12,10 @@ class DropUninterestingEvents:
             "Back to Living Well",
             "Badminton",
             "Balance Plus",
+            "Barre",  # A ballet-inspired group fitness class
             "Basketball",
             "Child Minding",
+            "Endurance Cycle",
             "Dodgeball",
             "Hockey",
             "Dance",
@@ -23,6 +25,10 @@ class DropUninterestingEvents:
             "Strong Nation",
             "Volleyball",
             "TRX",  # suspension
+            "Queenax",  # functional training system
+            "Open Gym",  # fills all remaining space
+            "WalkFit",  # A gentle low impact class using Activator walking poles
+
         ]
         for n in reject_names:
             if n in item['name']:
