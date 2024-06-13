@@ -1,4 +1,4 @@
-# Scrapy settings for burlington_pools project
+# Scrapy settings for ymcahbb_pools project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "burlington_pools"
+BOT_NAME = "ymcahbb_pools"
 
-SPIDER_MODULES = ["burlington_pools.spiders"]
-NEWSPIDER_MODULE = "burlington_pools.spiders"
+SPIDER_MODULES = ["ymcahbb_pools.spiders"]
+NEWSPIDER_MODULE = "ymcahbb_pools.spiders"
 
 LOG_LEVEL = 'INFO'
 
@@ -46,13 +46,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    "burlington_pools.middlewares.BurlingtonPoolsSpiderMiddleware": 543,
+#    "ymcahbb_pools.middlewares.YMCAHBBPoolsSpiderMiddleware": 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    "burlington_pools.middlewares.BurlingtonPoolsDownloaderMiddleware": 543,
+#    "ymcahbb_pools.middlewares.YMCAHBBPoolsDownloaderMiddleware": 543,
 #}
 
 # Enable or disable extensions
@@ -64,7 +64,7 @@ EXTENSIONS = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    "burlington_pools.pipelines.BurlingtonPoolsPipeline": 300,
+#    "ymcahbb_pools.pipelines.YMCAHBBPoolsPipeline": 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -94,14 +94,14 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
 FEED_EXPORTERS = {
-    'ical': 'burlington_pools.exporters.ICalItemExporter'
+    'ical': 'ymcahbb_pools.exporters.ICalItemExporter'
 }
 
 FEEDS = {
     'allpools.ical': {
         'format': 'ical',
         'overwrite': True,
-        'item_filter': 'burlington_pools.filters.DropUninterestingEvents',
-        'item_classes': ["burlington_pools.items.BookableDate"],
+        'item_filter': 'ymcahbb_pools.filters.DropUninterestingEvents',
+        'item_classes': ["ymcahbb_pools.items.BookableDate"],
     }
 }

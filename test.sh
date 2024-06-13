@@ -1,3 +1,3 @@
 #!/bin/sh
 
-scrapy crawl BurlingtonPools -o allpools.ical
+scrapy crawl YMCAHBBPools -o allpools.ical

@@ -31,7 +31,7 @@ jobs:
 
     - name: Fetch latest data
       run: |
-        scrapy crawl BurlingtonPools -o allpools.ical
+        scrapy crawl YMCAHBBPools -o allpools.ical
 
     - name: Commit and push if it changed
       uses: stefanzweifel/git-auto-commit-action@v5

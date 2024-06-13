@@ -24,7 +24,7 @@ class ICalItemExporter(BaseItemExporter):
         self._kwargs.setdefault('ensure_ascii', not self.encoding)
 
     def start_exporting(self):
-        self.cal.add('prodid', '-//BurlingtonPools//verselogic.net//')
+        self.cal.add('prodid', '-//YMCAHBBPools//verselogic.net//')
         self.cal.add('version', '2.0')
 
     def export_item(self, item: BookableDate):
@@ -34,12 +34,12 @@ class ICalItemExporter(BaseItemExporter):
         e = icalendar.Event()
         e.add('last-modified', icalendar.vDatetime(datetime.now(pytz.UTC)))
         e.add('dtstamp', icalendar.vDatetime(itemdict['start_time']))
-        e.add('summary', icalendar.vText(f"{itemdict['name']}, {itemdict['location']}, {itemdict['facility']}"))
+        e.add('summary', icalendar.vText(itemdict['name']))
         e.add('location', icalendar.vText(itemdict['address']))
 
-        e.add('uid', icalendar.vText(uuid5(ns, itemdict['event_id'] + itemdict['event_occurrence'])))
+        e.add('uid', icalendar.vText(uuid5(ns, itemdict['event_id'])))
 
-        e.add('description', icalendar.vText(f"{itemdict['details']}\n\n{itemdict['time_range_description']}\n{itemdict['price_range']}\n{itemdict['spots_remaining']}"))
+        e.add('description', icalendar.vText(f"{itemdict['details']}\n\n{itemdict['time_range_description']}"))
 
         e.add('dtstart', icalendar.vDatetime(itemdict['start_time']))
         e.add('dtend', icalendar.vDatetime(itemdict['end_time']))
