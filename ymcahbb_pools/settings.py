@@ -98,10 +98,27 @@ FEED_EXPORTERS = {
 }
 
 FEEDS = {
-    'allpools.ical': {
+    'all.ical': {
         'format': 'ical',
         'overwrite': True,
         'item_filter': 'ymcahbb_pools.filters.DropUninterestingEvents',
         'item_classes': ["ymcahbb_pools.items.BookableDate"],
-    }
+    },
+
+    'burlington.ical': {
+        'format': 'ical',
+        'overwrite': True,
+        'item_filter': 'ymcahbb_pools.filters.LocationFilter',
+        'location': 'Ron Edwards Family YMCA',
+        'item_classes': ["ymcahbb_pools.items.BookableDate"],
+    },
+
+    'hamilton-downtown.ical': {
+        'format': 'ical',
+        'overwrite': True,
+        'item_filter': 'ymcahbb_pools.filters.LocationFilter',
+        'location': 'Hamilton Downtown Family YMCA',
+        'item_classes': ["ymcahbb_pools.items.BookableDate"],
+    },
+
 }

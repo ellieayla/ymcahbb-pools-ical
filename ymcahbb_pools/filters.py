@@ -51,4 +51,14 @@ class DropUninterestingEvents:
             pass
 
         return True
-    
+
+class LocationFilter(DropUninterestingEvents):
+    def __init__(self, feed_options: dict):
+        self.location = feed_options['location']
+        super().__init__(feed_options=feed_options)
+
+    def accepts(self, item):
+        if item['facility'] != self.location:
+            return False
+
+        return super().accepts(item)
