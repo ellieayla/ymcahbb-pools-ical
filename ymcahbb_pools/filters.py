@@ -34,12 +34,15 @@ class DropUninterestingEvents:
             if n in item['name']:
                 return False
 
+        if "Aquatics - Private Lesson" in item['details']:
+            return False
+        
         if item['category'] == 'YThrive':
             return False
 
         # age range
         try:
-            m = re.search("\((\d+) - (\d+)\)", item['name'])
+            m = re.search("\((\d+) ?- ?(\d+)(yrs)?\)", item['name'])
             if m:
                 low = int(m.group(1))
                 high = int(m.group(2))
