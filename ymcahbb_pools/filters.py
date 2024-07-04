@@ -41,8 +41,9 @@ class DropUninterestingEvents:
             return False
 
         # age range
-        try:
-            m = re.search("\((\d+) ?- ?(\d+)(yrs)?\)", item['name'])
+        for checkfield in (item['name'], item['details']):
+         try:
+            m = re.search("\((\d+) ?- ?(\d+)(yrs)?\)", checkfield)
             if m:
                 low = int(m.group(1))
                 high = int(m.group(2))
@@ -50,8 +51,9 @@ class DropUninterestingEvents:
                 if not (low < 40 < high):
                     return False
 
-        except ValueError:
+         except ValueError:
             pass
+
 
         return True
 
