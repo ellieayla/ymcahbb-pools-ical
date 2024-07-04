@@ -8,6 +8,7 @@ class DropUninterestingEvents:
     def accepts(self, item):
 
         reject_names = [
+            "Adult Swim Lesson",
             'Karate',
             "Back to Living Well",
             "Badminton",
@@ -36,7 +37,8 @@ class DropUninterestingEvents:
 
         if "Aquatics - Private Lesson" in item['details']:
             return False
-        
+        if "(infant-36 months)" in item['details']:
+            return False
         if item['category'] == 'YThrive':
             return False
 
