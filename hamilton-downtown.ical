@@ -3,24 +3,12 @@ VERSION:2.0
 PRODID:-//YMCAHBBPools//verselogic.net//
 BEGIN:VEVENT
 SUMMARY:YThrive Grow - Tuesday 5:30 PM
-DTSTART;TZID=EDT:20240827T173000
-DTEND;TZID=EDT:20240827T181500
-DTSTAMP;TZID=EDT:20240827T173000
-UID:7d58b69a-3f0d-5e6f-b938-e2d50322a5ac
-DESCRIPTION:YThrive Grow\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20240827T035141Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-293380
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:YThrive Grow - Tuesday 5:30 PM
 DTSTART;TZID=EDT:20240903T173000
 DTEND;TZID=EDT:20240903T181500
 DTSTAMP;TZID=EDT:20240903T173000
 UID:2db7a90e-495f-5f69-9f19-6e20b95d262d
 DESCRIPTION:YThrive Grow\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20240827T035141Z
+LAST-MODIFIED:20240828T035145Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-293511
@@ -32,7 +20,7 @@ DTEND;TZID=EDT:20240914T113000
 DTSTAMP;TZID=EDT:20240914T110000
 UID:382599ef-dadf-518f-ba92-cdcc6a30b859
 DESCRIPTION:Aquatics - Semi Private Lesson\n\n\nDuration: 30 minutes
-LAST-MODIFIED:20240827T035142Z
+LAST-MODIFIED:20240828T035146Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-288951
@@ -45,7 +33,7 @@ DTSTAMP;TZID=EDT:20240922T110053
 UID:f9ec7b2f-be35-58a3-bc46-9af807776d39
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: -7 h
  ours
-LAST-MODIFIED:20240827T035142Z
+LAST-MODIFIED:20240828T035146Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-299032
@@ -58,7 +46,7 @@ DTSTAMP;TZID=EDT:20240921T110053
 UID:f9ec7b2f-be35-58a3-bc46-9af807776d39
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: -7 h
  ours
-LAST-MODIFIED:20240827T035142Z
+LAST-MODIFIED:20240828T035146Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-299032
@@ -70,7 +58,7 @@ DTEND;TZID=EDT:20240914T113000
 DTSTAMP;TZID=EDT:20240914T110000
 UID:382599ef-dadf-518f-ba92-cdcc6a30b859
 DESCRIPTION:Aquatics - Semi Private Lesson\n\n\nDuration: 30 minutes
-LAST-MODIFIED:20240827T035142Z
+LAST-MODIFIED:20240828T035146Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-288951
