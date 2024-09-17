@@ -3,39 +3,13 @@ VERSION:2.0
 PRODID:-//YMCAHBBPools//verselogic.net//
 BEGIN:VEVENT
 SUMMARY:Bronze Medallion & EFA - Downtown
-DTSTART;TZID=EDT:20240921T110053
-DTEND;TZID=EDT:20240921T040053
-DTSTAMP;TZID=EDT:20240921T110053
-UID:98ada69a-69cd-5631-a093-df6a8fb450ae
-DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: -7 h
- ours
-LAST-MODIFIED:20240916T035146Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-299032
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bronze Medallion & EFA - Downtown
 DTSTART;TZID=EDT:20240922T110053
 DTEND;TZID=EDT:20240922T040053
 DTSTAMP;TZID=EDT:20240922T110053
 UID:98ada69a-69cd-5631-a093-df6a8fb450ae
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: -7 h
  ours
-LAST-MODIFIED:20240916T035146Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-299032
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bronze Medallion & EFA - Downtown
-DTSTART;TZID=EDT:20240922T110053
-DTEND;TZID=EDT:20240922T040053
-DTSTAMP;TZID=EDT:20240922T110053
-UID:98ada69a-69cd-5631-a093-df6a8fb450ae
-DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: -7 h
- ours
-LAST-MODIFIED:20240916T035146Z
+LAST-MODIFIED:20240917T035130Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-299032
@@ -48,7 +22,33 @@ DTSTAMP;TZID=EDT:20240921T110053
 UID:98ada69a-69cd-5631-a093-df6a8fb450ae
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: -7 h
  ours
-LAST-MODIFIED:20240916T035146Z
+LAST-MODIFIED:20240917T035130Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-299032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bronze Medallion & EFA - Downtown
+DTSTART;TZID=EDT:20240922T110053
+DTEND;TZID=EDT:20240922T040053
+DTSTAMP;TZID=EDT:20240922T110053
+UID:98ada69a-69cd-5631-a093-df6a8fb450ae
+DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: -7 h
+ ours
+LAST-MODIFIED:20240917T035130Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-299032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bronze Medallion & EFA - Downtown
+DTSTART;TZID=EDT:20240921T110053
+DTEND;TZID=EDT:20240921T040053
+DTSTAMP;TZID=EDT:20240921T110053
+UID:98ada69a-69cd-5631-a093-df6a8fb450ae
+DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: -7 h
+ ours
+LAST-MODIFIED:20240917T035130Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-299032
@@ -60,7 +60,7 @@ DTEND;TZID=EDT:20241006T160011
 DTSTAMP;TZID=EDT:20241006T110011
 UID:c98824b1-b9ee-556b-8d91-3d3a198f3ab3
 DESCRIPTION:Aquatics - N.L.S Recert\n\n\nDuration: 5 hours
-LAST-MODIFIED:20240916T035147Z
+LAST-MODIFIED:20240917T035130Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-299036
