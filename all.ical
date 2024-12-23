@@ -2,105 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//YMCAHBBPools//verselogic.net//
 BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards  - Sunday 8:00 AM
-DTSTART;TZID=America/Montreal:20241222T080000
-DTEND;TZID=America/Montreal:20241222T090000
-DTSTAMP;TZID=America/Montreal:20241222T080000
-UID:44ba0829-2223-5031-96f0-138c23fc4b6a
-DESCRIPTION:Lane Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20241222T035144Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:None
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Racquetball - Ron Edwards - Sunday 8:00 AM
-DTSTART;TZID=America/Montreal:20241222T080000
-DTEND;TZID=America/Montreal:20241222T160000
-DTSTAMP;TZID=America/Montreal:20241222T080000
-UID:e951cb03-84da-5dbc-95df-977bd443d228
-DESCRIPTION:Racquetball\n\n\nDuration: 8 hours
-LAST-MODIFIED:20241222T035144Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:None
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STRONG Nation - Ron Edwards - Sunday 8:15 AM
-DTSTART;TZID=America/Montreal:20241222T081500
-DTEND;TZID=America/Montreal:20241222T090000
-DTSTAMP;TZID=America/Montreal:20241222T081500
-UID:623de125-05d9-5de1-a549-63f310642a54
-DESCRIPTION:Strong Nation\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20241222T035144Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:None
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga - Ron Edwards - Sunday 9:15 AM
-DTSTART;TZID=America/Montreal:20241222T091500
-DTEND;TZID=America/Montreal:20241222T101500
-DTSTAMP;TZID=America/Montreal:20241222T091500
-UID:67a6866a-9da4-593c-a2d2-cde25bb19ade
-DESCRIPTION:Yoga\n\n\nDuration: 1 hours
-LAST-MODIFIED:20241222T035144Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:None
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Open Swim - Ron Edwards - Sunday 1:15 PM
-DTSTART;TZID=America/Montreal:20241222T131500
-DTEND;TZID=America/Montreal:20241222T141500
-DTSTAMP;TZID=America/Montreal:20241222T131500
-UID:48d9c9d4-b1a1-5ab7-8845-6948db17e9ee
-DESCRIPTION:Family Open Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20241222T035144Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:None
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Sunday 2:45 PM
-DTSTART;TZID=America/Montreal:20241222T144500
-DTEND;TZID=America/Montreal:20241222T154500
-DTSTAMP;TZID=America/Montreal:20241222T144500
-UID:fc21f63a-59d7-568a-a139-f36fe2ff0736
-DESCRIPTION:Lane Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20241222T035144Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:None
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Swim - Ron Edwards - Sunday 2:45 PM
-DTSTART;TZID=America/Montreal:20241222T144500
-DTEND;TZID=America/Montreal:20241222T154500
-DTSTAMP;TZID=America/Montreal:20241222T144500
-UID:9c8bb4c0-1ac8-523a-a00b-9c4cdd2725ec
-DESCRIPTION:Open Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20241222T035144Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:None
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CycleFit - Ron Edwards - Tuesday 9:15 AM
 DTSTART;TZID=America/Montreal:20241224T091500
 DTEND;TZID=America/Montreal:20241224T100000
 DTSTAMP;TZID=America/Montreal:20241224T091500
 UID:98934a4a-d858-56e4-b9ac-3462b9c51079
 DESCRIPTION:CycleFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20241222T035144Z
+LAST-MODIFIED:20241223T035145Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-308588
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CycleFit - Ron Edwards - Thursday 9:15 AM
-DTSTART;TZID=America/Montreal:20241226T091500
-DTEND;TZID=America/Montreal:20241226T101500
-DTSTAMP;TZID=America/Montreal:20241226T091500
-UID:ae78933c-8e11-58f7-87e5-ff3ddbcc023d
-DESCRIPTION:CycleFit\n\n\nDuration: 1 hours
-LAST-MODIFIED:20241222T035144Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-308593
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CycleFit - Ron Edwards - Saturday 9:15 AM
@@ -109,7 +20,7 @@ DTEND;TZID=America/Montreal:20241228T100000
 DTSTAMP;TZID=America/Montreal:20241228T091500
 UID:6addbd3a-4bd2-5144-ba43-037d60e4ea1e
 DESCRIPTION:CycleFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20241222T035144Z
+LAST-MODIFIED:20241223T035145Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-308611
@@ -121,22 +32,22 @@ DTEND;TZID=America/Montreal:20241223T194500
 DTSTAMP;TZID=America/Montreal:20241223T190000
 UID:29c2e650-74dc-5d07-b887-28a7462dbaf1
 DESCRIPTION:CycleFit Train\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20241222T035144Z
+LAST-MODIFIED:20241223T035145Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-308575
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Balance + - Ron Edwards - Monday/Wednesday 12:15 PM
-DTSTART;TZID=America/Montreal:20250113T121500
-DTEND;TZID=America/Montreal:20250113T131500
-DTSTAMP;TZID=America/Montreal:20250113T121500
-UID:8ef92b62-b783-50f3-ba6e-e6936359f26d
-DESCRIPTION:Balance +\n\n\nDuration: 1 hours
-LAST-MODIFIED:20241222T035145Z
+SUMMARY:CycleFit - Ron Edwards - Thursday 9:15 AM
+DTSTART;TZID=America/Montreal:20241226T091500
+DTEND;TZID=America/Montreal:20241226T101500
+DTSTAMP;TZID=America/Montreal:20241226T091500
+UID:ae78933c-8e11-58f7-87e5-ff3ddbcc023d
+DESCRIPTION:CycleFit\n\n\nDuration: 1 hours
+LAST-MODIFIED:20241223T035145Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-310676
+ NST-308593
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Balance + - Ron Edwards - Monday/Wednesday 12:15 PM
@@ -145,7 +56,7 @@ DTEND;TZID=America/Montreal:20250115T131500
 DTSTAMP;TZID=America/Montreal:20250115T121500
 UID:8ef92b62-b783-50f3-ba6e-e6936359f26d
 DESCRIPTION:Balance +\n\n\nDuration: 1 hours
-LAST-MODIFIED:20241222T035145Z
+LAST-MODIFIED:20241223T035146Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310676
@@ -157,10 +68,34 @@ DTEND;TZID=America/Montreal:20250113T131500
 DTSTAMP;TZID=America/Montreal:20250113T121500
 UID:8ef92b62-b783-50f3-ba6e-e6936359f26d
 DESCRIPTION:Balance +\n\n\nDuration: 1 hours
-LAST-MODIFIED:20241222T035145Z
+LAST-MODIFIED:20241223T035146Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Balance + - Ron Edwards - Monday/Wednesday 12:15 PM
+DTSTART;TZID=America/Montreal:20250113T121500
+DTEND;TZID=America/Montreal:20250113T131500
+DTSTAMP;TZID=America/Montreal:20250113T121500
+UID:8ef92b62-b783-50f3-ba6e-e6936359f26d
+DESCRIPTION:Balance +\n\n\nDuration: 1 hours
+LAST-MODIFIED:20241223T035146Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-310676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Triathlon Training Sessions 2 - Ron Edwards - Tuesday 7:30 PM
+DTSTART;TZID=America/Montreal:20250121T193000
+DTEND;TZID=America/Montreal:20250121T210000
+DTSTAMP;TZID=America/Montreal:20250121T193000
+UID:d7cbb603-1524-558d-8fa9-8a82bc0ea74a
+DESCRIPTION:Triathlon Training\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20241223T035146Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-302051
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Birthday Pary - Ron Edwards - Saturday 1:00 PM
@@ -169,7 +104,7 @@ DTEND;TZID=America/Montreal:20250118T150000
 DTSTAMP;TZID=America/Montreal:20250118T130000
 UID:9292d49b-564a-5ea0-b316-76538fdc3a77
 DESCRIPTION:Birthday Party\n\n\nDuration: 2 hours
-LAST-MODIFIED:20241222T035145Z
+LAST-MODIFIED:20241223T035146Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310650
@@ -181,7 +116,7 @@ DTEND;TZID=America/Montreal:20250118T160053
 DTSTAMP;TZID=America/Montreal:20250118T110053
 UID:65a517e3-8091-5131-a796-97cc0184fbe1
 DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 5 hours
-LAST-MODIFIED:20241222T035146Z
+LAST-MODIFIED:20241223T035147Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310409
@@ -193,7 +128,7 @@ DTEND;TZID=America/Montreal:20250119T160053
 DTSTAMP;TZID=America/Montreal:20250119T110053
 UID:65a517e3-8091-5131-a796-97cc0184fbe1
 DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 5 hours
-LAST-MODIFIED:20241222T035146Z
+LAST-MODIFIED:20241223T035147Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310409
