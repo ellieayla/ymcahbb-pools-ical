@@ -8,34 +8,10 @@ DTEND;TZID=America/Montreal:20250301T173037
 DTSTAMP;TZID=America/Montreal:20250301T083037
 UID:027ca470-c9c9-5dd1-ac3e-2dd2d1567fc9
 DESCRIPTION:Standard First Aid & CPR-C Recert\n\n\nDuration: 9 hours
-LAST-MODIFIED:20250228T035141Z
+LAST-MODIFIED:20250301T035200Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-314528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National Lifeguard - Downtown
-DTSTART;TZID=America/Montreal:20250311T100016
-DTEND;TZID=America/Montreal:20250311T183016
-DTSTAMP;TZID=America/Montreal:20250311T100016
-UID:3d54a775-9617-5c4c-b390-2abb11d56ffe
-DESCRIPTION:Aquatics - National Lifeguard\n\n\nDuration: 8h:30m
-LAST-MODIFIED:20250228T035142Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-310411
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National Lifeguard - Downtown
-DTSTART;TZID=America/Montreal:20250313T100016
-DTEND;TZID=America/Montreal:20250313T183016
-DTSTAMP;TZID=America/Montreal:20250313T100016
-UID:3d54a775-9617-5c4c-b390-2abb11d56ffe
-DESCRIPTION:Aquatics - National Lifeguard\n\n\nDuration: 8h:30m
-LAST-MODIFIED:20250228T035142Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-310411
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:National Lifeguard - Downtown
@@ -44,7 +20,19 @@ DTEND;TZID=America/Montreal:20250310T183016
 DTSTAMP;TZID=America/Montreal:20250310T100016
 UID:3d54a775-9617-5c4c-b390-2abb11d56ffe
 DESCRIPTION:Aquatics - National Lifeguard\n\n\nDuration: 8h:30m
-LAST-MODIFIED:20250228T035142Z
+LAST-MODIFIED:20250301T035201Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-310411
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Lifeguard - Downtown
+DTSTART;TZID=America/Montreal:20250311T100016
+DTEND;TZID=America/Montreal:20250311T183016
+DTSTAMP;TZID=America/Montreal:20250311T100016
+UID:3d54a775-9617-5c4c-b390-2abb11d56ffe
+DESCRIPTION:Aquatics - National Lifeguard\n\n\nDuration: 8h:30m
+LAST-MODIFIED:20250301T035201Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310411
@@ -56,7 +44,7 @@ DTEND;TZID=America/Montreal:20250312T183016
 DTSTAMP;TZID=America/Montreal:20250312T100016
 UID:3d54a775-9617-5c4c-b390-2abb11d56ffe
 DESCRIPTION:Aquatics - National Lifeguard\n\n\nDuration: 8h:30m
-LAST-MODIFIED:20250228T035142Z
+LAST-MODIFIED:20250301T035201Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310411
@@ -68,23 +56,22 @@ DTEND;TZID=America/Montreal:20250314T183016
 DTSTAMP;TZID=America/Montreal:20250314T100016
 UID:3d54a775-9617-5c4c-b390-2abb11d56ffe
 DESCRIPTION:Aquatics - National Lifeguard\n\n\nDuration: 8h:30m
-LAST-MODIFIED:20250228T035142Z
+LAST-MODIFIED:20250301T035201Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310411
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bronze Medallion & EFA - Downtown
-DTSTART;TZID=America/Montreal:20250322T080031
-DTEND;TZID=America/Montreal:20250322T160031
-DTSTAMP;TZID=America/Montreal:20250322T080031
-UID:122a4306-0bde-5227-8d42-5b4afb1e2771
-DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 8 ho
- urs
-LAST-MODIFIED:20250228T035142Z
+SUMMARY:National Lifeguard - Downtown
+DTSTART;TZID=America/Montreal:20250313T100016
+DTEND;TZID=America/Montreal:20250313T183016
+DTSTAMP;TZID=America/Montreal:20250313T100016
+UID:3d54a775-9617-5c4c-b390-2abb11d56ffe
+DESCRIPTION:Aquatics - National Lifeguard\n\n\nDuration: 8h:30m
+LAST-MODIFIED:20250301T035201Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-310407
+ NST-310411
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bronze Medallion & EFA - Downtown
@@ -94,7 +81,7 @@ DTSTAMP;TZID=America/Montreal:20250323T080031
 UID:122a4306-0bde-5227-8d42-5b4afb1e2771
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 8 ho
  urs
-LAST-MODIFIED:20250228T035142Z
+LAST-MODIFIED:20250301T035201Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310407
@@ -107,7 +94,20 @@ DTSTAMP;TZID=America/Montreal:20250322T080031
 UID:122a4306-0bde-5227-8d42-5b4afb1e2771
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 8 ho
  urs
-LAST-MODIFIED:20250228T035142Z
+LAST-MODIFIED:20250301T035201Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-310407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bronze Medallion & EFA - Downtown
+DTSTART;TZID=America/Montreal:20250322T080031
+DTEND;TZID=America/Montreal:20250322T160031
+DTSTAMP;TZID=America/Montreal:20250322T080031
+UID:122a4306-0bde-5227-8d42-5b4afb1e2771
+DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 8 ho
+ urs
+LAST-MODIFIED:20250301T035201Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310407
