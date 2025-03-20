@@ -3,26 +3,13 @@ VERSION:2.0
 PRODID:-//YMCAHBBPools//verselogic.net//
 BEGIN:VEVENT
 SUMMARY:Bronze Medallion & EFA - Downtown
-DTSTART;TZID=America/Montreal:20250322T080031
-DTEND;TZID=America/Montreal:20250322T160031
-DTSTAMP;TZID=America/Montreal:20250322T080031
-UID:122a4306-0bde-5227-8d42-5b4afb1e2771
-DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 8 ho
- urs
-LAST-MODIFIED:20250319T035245Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-310407
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bronze Medallion & EFA - Downtown
 DTSTART;TZID=America/Montreal:20250323T080031
 DTEND;TZID=America/Montreal:20250323T160031
 DTSTAMP;TZID=America/Montreal:20250323T080031
 UID:122a4306-0bde-5227-8d42-5b4afb1e2771
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 8 ho
  urs
-LAST-MODIFIED:20250319T035245Z
+LAST-MODIFIED:20250320T035241Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310407
@@ -35,7 +22,20 @@ DTSTAMP;TZID=America/Montreal:20250322T080031
 UID:122a4306-0bde-5227-8d42-5b4afb1e2771
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 8 ho
  urs
-LAST-MODIFIED:20250319T035245Z
+LAST-MODIFIED:20250320T035241Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-310407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bronze Medallion & EFA - Downtown
+DTSTART;TZID=America/Montreal:20250322T080031
+DTEND;TZID=America/Montreal:20250322T160031
+DTSTAMP;TZID=America/Montreal:20250322T080031
+UID:122a4306-0bde-5227-8d42-5b4afb1e2771
+DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 8 ho
+ urs
+LAST-MODIFIED:20250320T035241Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-310407
