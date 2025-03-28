@@ -1,4 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//YMCAHBBPools//verselogic.net//
+BEGIN:VEVENT
+SUMMARY:National Lifeguard - Downtown
+DTSTART;TZID=America/Montreal:20250426T080039
+DTEND;TZID=America/Montreal:20250426T163039
+DTSTAMP;TZID=America/Montreal:20250426T080039
+UID:5e8a4c6a-0081-5b88-ac9e-5aee4357390a
+DESCRIPTION:Aquatics - National Lifeguard\n\n\nDuration: 8h:30m
+LAST-MODIFIED:20250328T035335Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-315614
+END:VEVENT
 END:VCALENDAR
