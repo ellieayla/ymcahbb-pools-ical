@@ -3,24 +3,12 @@ VERSION:2.0
 PRODID:-//YMCAHBBPools//verselogic.net//
 BEGIN:VEVENT
 SUMMARY:Bronze Cross - Downtown
-DTSTART;TZID=America/Toronto:20250614T110017
-DTEND;TZID=America/Toronto:20250614T170017
-DTSTAMP;TZID=America/Toronto:20250614T110017
-UID:37889d71-f7bf-544a-96c8-e943bb793ef0
-DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 6 hours
-LAST-MODIFIED:20250601T040634Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-315613
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bronze Cross - Downtown
 DTSTART;TZID=America/Toronto:20250615T110017
 DTEND;TZID=America/Toronto:20250615T170017
 DTSTAMP;TZID=America/Toronto:20250615T110017
 UID:37889d71-f7bf-544a-96c8-e943bb793ef0
 DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 6 hours
-LAST-MODIFIED:20250601T040634Z
+LAST-MODIFIED:20250602T040156Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-315613
@@ -32,7 +20,19 @@ DTEND;TZID=America/Toronto:20250614T170017
 DTSTAMP;TZID=America/Toronto:20250614T110017
 UID:37889d71-f7bf-544a-96c8-e943bb793ef0
 DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 6 hours
-LAST-MODIFIED:20250601T040634Z
+LAST-MODIFIED:20250602T040156Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-315613
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bronze Cross - Downtown
+DTSTART;TZID=America/Toronto:20250614T110017
+DTEND;TZID=America/Toronto:20250614T170017
+DTSTAMP;TZID=America/Toronto:20250614T110017
+UID:37889d71-f7bf-544a-96c8-e943bb793ef0
+DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 6 hours
+LAST-MODIFIED:20250602T040156Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-315613
@@ -44,7 +44,7 @@ DTEND;TZID=America/Toronto:20250615T170017
 DTSTAMP;TZID=America/Toronto:20250615T110017
 UID:37889d71-f7bf-544a-96c8-e943bb793ef0
 DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 6 hours
-LAST-MODIFIED:20250601T040634Z
+LAST-MODIFIED:20250602T040156Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-315613
