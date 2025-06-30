@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//YMCAHBBPools//verselogic.net//
 BEGIN:VEVENT
 SUMMARY:Bronze Medallion & EFA - Downtown
-DTSTART;TZID=America/Toronto:20250715T100036
-DTEND;TZID=America/Toronto:20250715T153036
-DTSTAMP;TZID=America/Toronto:20250715T100036
+DTSTART;TZID=America/Toronto:20250716T100036
+DTEND;TZID=America/Toronto:20250716T153036
+DTSTAMP;TZID=America/Toronto:20250716T100036
 UID:d0ddd6f4-e25b-58f3-860a-7c7ccacbedad
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 5h:3
  0m
-LAST-MODIFIED:20250629T040516Z
+LAST-MODIFIED:20250630T040401Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-335568
@@ -22,7 +22,20 @@ DTSTAMP;TZID=America/Toronto:20250714T100036
 UID:d0ddd6f4-e25b-58f3-860a-7c7ccacbedad
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 5h:3
  0m
-LAST-MODIFIED:20250629T040516Z
+LAST-MODIFIED:20250630T040401Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-335568
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bronze Medallion & EFA - Downtown
+DTSTART;TZID=America/Toronto:20250715T100036
+DTEND;TZID=America/Toronto:20250715T153036
+DTSTAMP;TZID=America/Toronto:20250715T100036
+UID:d0ddd6f4-e25b-58f3-860a-7c7ccacbedad
+DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 5h:3
+ 0m
+LAST-MODIFIED:20250630T040401Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-335568
@@ -35,20 +48,7 @@ DTSTAMP;TZID=America/Toronto:20250717T100036
 UID:d0ddd6f4-e25b-58f3-860a-7c7ccacbedad
 DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 5h:3
  0m
-LAST-MODIFIED:20250629T040516Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-335568
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bronze Medallion & EFA - Downtown
-DTSTART;TZID=America/Toronto:20250716T100036
-DTEND;TZID=America/Toronto:20250716T153036
-DTSTAMP;TZID=America/Toronto:20250716T100036
-UID:d0ddd6f4-e25b-58f3-860a-7c7ccacbedad
-DESCRIPTION:Aquatics - Bronze Medallion & EFA (13yrs+)\n\n\nDuration: 5h:3
- 0m
-LAST-MODIFIED:20250629T040516Z
+LAST-MODIFIED:20250630T040401Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-335568
