@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:-//YMCAHBBPools//verselogic.net//
 BEGIN:VEVENT
 SUMMARY:Bronze Cross - Downtown
-DTSTART;TZID=America/Toronto:20250805T100039
-DTEND;TZID=America/Toronto:20250805T153039
-DTSTAMP;TZID=America/Toronto:20250805T100039
+DTSTART;TZID=America/Toronto:20250807T100039
+DTEND;TZID=America/Toronto:20250807T153039
+DTSTAMP;TZID=America/Toronto:20250807T100039
 UID:a20c5e11-82e8-5b45-a666-12b1161a1eec
 DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 5h:30m
-LAST-MODIFIED:20250719T040324Z
+LAST-MODIFIED:20250720T041105Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-335573
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bronze Cross - Downtown
-DTSTART;TZID=America/Toronto:20250807T100039
-DTEND;TZID=America/Toronto:20250807T153039
-DTSTAMP;TZID=America/Toronto:20250807T100039
+DTSTART;TZID=America/Toronto:20250805T100039
+DTEND;TZID=America/Toronto:20250805T153039
+DTSTAMP;TZID=America/Toronto:20250805T100039
 UID:a20c5e11-82e8-5b45-a666-12b1161a1eec
 DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 5h:30m
-LAST-MODIFIED:20250719T040324Z
+LAST-MODIFIED:20250720T041105Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-335573
@@ -32,7 +32,7 @@ DTEND;TZID=America/Toronto:20250806T153039
 DTSTAMP;TZID=America/Toronto:20250806T100039
 UID:a20c5e11-82e8-5b45-a666-12b1161a1eec
 DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 5h:30m
-LAST-MODIFIED:20250719T040324Z
+LAST-MODIFIED:20250720T041105Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-335573
@@ -44,7 +44,7 @@ DTEND;TZID=America/Toronto:20250808T153039
 DTSTAMP;TZID=America/Toronto:20250808T100039
 UID:a20c5e11-82e8-5b45-a666-12b1161a1eec
 DESCRIPTION:Aquatics - Bronze Cross (13yrs+)\n\n\nDuration: 5h:30m
-LAST-MODIFIED:20250719T040324Z
+LAST-MODIFIED:20250720T041105Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-335573
