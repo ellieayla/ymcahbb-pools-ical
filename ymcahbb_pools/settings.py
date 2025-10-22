@@ -1,3 +1,18 @@
+import sentry_sdk
+
+sentry_sdk.init(
+    # don't specify DSN, read url from SENTRY_DSN environment variable
+    # Add data like request headers and IP for users,
+    # see https://docs.sentry.io/platforms/python/data-management/data-collected/ for more info
+    send_default_pii=True,
+    # Enable sending logs to Sentry
+    enable_logs=True,
+)
+
+
+### Normal
+
+
 # Scrapy settings for ymcahbb_pools project
 #
 # For simplicity, this file contains only settings considered important or

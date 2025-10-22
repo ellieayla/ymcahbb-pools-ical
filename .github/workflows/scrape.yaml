@@ -30,6 +30,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Fetch latest data
+      env:
+        SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
       run: |
         scrapy crawl YMCAHBBPools
 
