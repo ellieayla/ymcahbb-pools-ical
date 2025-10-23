@@ -8,6 +8,9 @@ from datetime import date, datetime
 import dateutil
 
 
+from sentry_sdk.crons import monitor
+
+
 class YMCAHBBPools(scrapy.Spider):
     name = "YMCAHBBPools"
     allowed_domains = ["www.ymcahbb.ca"]
@@ -30,8 +33,9 @@ class YMCAHBBPools(scrapy.Spider):
             for date in dates
         ]
 
-        for url in urls:
-            yield scrapy.Request(url=url, callback=self.parse)
+        with monitor(monitor_slug='ymcahbb-pools-ical-scheduled-action') as m:
+            for url in urls:
+                yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
         payload = response.json()
