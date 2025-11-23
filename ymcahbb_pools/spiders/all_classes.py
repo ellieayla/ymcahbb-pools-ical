@@ -33,7 +33,24 @@ class YMCAHBBPools(scrapy.Spider):
             for date in dates
         ]
 
-        with monitor(monitor_slug='ymcahbb-pools-ical-scheduled-action') as m:
+        # All keys except `schedule` are optional
+        monitor_config = {
+          #"schedule": {"type": "crontab", "value": "0 0 * * *"},
+          #"timezone": "Europe/Vienna",
+          # If an expected check-in doesn't come in `checkin_margin`
+          # minutes, it'll be considered missed
+          "checkin_margin": 30,
+          # The check-in is allowed to run for `max_runtime` minutes
+          # before it's considered failed
+          "max_runtime": 10,
+          # It'll take `failure_issue_threshold` consecutive failed
+          # check-ins to create an issue
+          "failure_issue_threshold": 2,
+          # It'll take `recovery_threshold` OK check-ins to resolve
+          # an issue
+          "recovery_threshold": 1,
+        }
+        with monitor(monitor_slug='ymcahbb-pools-ical-scheduled-action', monitor_config=monitor_config) as m:
             for url in urls:
                 yield scrapy.Request(url=url, callback=self.parse)
 
