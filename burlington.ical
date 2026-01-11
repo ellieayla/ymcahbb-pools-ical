@@ -2,256 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//YMCAHBBPools//verselogic.net//
 BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Sunday 8:00 AM
-DTSTART;TZID=America/Toronto:20260111T080000
-DTEND;TZID=America/Toronto:20260111T091500
-DTSTAMP;TZID=America/Toronto:20260111T080000
-UID:d5d08155-3b5a-5bbf-b114-a4a4aa5ada91
-DESCRIPTION:Lane Swim\n\n\nDuration: 1h:15m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362277
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Racquetball - Ron Edwards - Sunday 8:00 AM
-DTSTART;TZID=America/Toronto:20260111T080000
-DTEND;TZID=America/Toronto:20260111T160000
-DTSTAMP;TZID=America/Toronto:20260111T080000
-UID:8b2e2af7-b8e4-5ca7-ba97-da7e8d734c49
-DESCRIPTION:Racquetball\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362276
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga - Ron Edwards - Sunday 9:15 AM
-DTSTART;TZID=America/Toronto:20260111T091500
-DTEND;TZID=America/Toronto:20260111T101500
-DTSTAMP;TZID=America/Toronto:20260111T091500
-UID:a7baa62a-4e42-556d-91c5-c0e09deab339
-DESCRIPTION:Yoga\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362278
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Sunday 2:45 PM
-DTSTART;TZID=America/Toronto:20260111T144500
-DTEND;TZID=America/Toronto:20260111T154500
-DTSTAMP;TZID=America/Toronto:20260111T144500
-UID:db89fcd4-e89e-5ef9-b2d1-ccd60930e902
-DESCRIPTION:Lane Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362283
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Swim - Ron Edwards - Sunday 2:45 PM
-DTSTART;TZID=America/Toronto:20260111T144500
-DTEND;TZID=America/Toronto:20260111T154500
-DTSTAMP;TZID=America/Toronto:20260111T144500
-UID:c4c2fac1-0b83-5172-b8e9-556c7b2dfdd7
-DESCRIPTION:Open Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362282
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Racquetball - Ron Edwards - Wednesday 6:00 AM
-DTSTART;TZID=America/Toronto:20260114T060000
-DTEND;TZID=America/Toronto:20260114T173000
-DTSTAMP;TZID=America/Toronto:20260114T060000
-UID:f11a75f2-9ab3-5781-bbda-7a314416a893
-DESCRIPTION:Racquetball\n\n\nDuration: 11h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362315
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Wednesday 7:30 AM
-DTSTART;TZID=America/Toronto:20260114T073000
-DTEND;TZID=America/Toronto:20260114T090000
-DTSTAMP;TZID=America/Toronto:20260114T073000
-UID:59f33aae-7afe-5fe1-888b-3f8e429c6fa5
-DESCRIPTION:Lane Swim\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362316
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AquaFit - Ron Edwards - Wednesday 9:15 AM
-DTSTART;TZID=America/Toronto:20260114T091500
-DTEND;TZID=America/Toronto:20260114T100000
-DTSTAMP;TZID=America/Toronto:20260114T091500
-UID:2636c178-a055-5f46-9ec3-5cc75a04895b
-DESCRIPTION:AquaFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Wednesday 10:30 AM
-DTSTART;TZID=America/Toronto:20260114T103000
-DTEND;TZID=America/Toronto:20260114T140000
-DTSTAMP;TZID=America/Toronto:20260114T103000
-UID:3b9c3d79-eab8-5d9a-aa0e-a94d18f0fd37
-DESCRIPTION:Lane Swim\n\n\nDuration: 3h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362319
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walk Fit - Ron Edwards - Wednesday 11:15 AM
-DTSTART;TZID=America/Toronto:20260114T111500
-DTEND;TZID=America/Toronto:20260114T120000
-DTSTAMP;TZID=America/Toronto:20260114T111500
-UID:e0ad63f0-328e-5a7b-89f5-18b3a57f4563
-DESCRIPTION:Walk Fit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363264
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Swim - Ron Edwards - Wednesday 2:00 PM
-DTSTART;TZID=America/Toronto:20260114T140000
-DTEND;TZID=America/Toronto:20260114T150000
-DTSTAMP;TZID=America/Toronto:20260114T140000
-UID:cd5518de-397b-539e-9dad-1aab8d560cc5
-DESCRIPTION:Open Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362323
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MuscleFit - Ron Edwards - Wednesday 7:00 PM
-DTSTART;TZID=America/Toronto:20260114T190000
-DTEND;TZID=America/Toronto:20260114T194500
-DTSTAMP;TZID=America/Toronto:20260114T190000
-UID:1ec93496-4ee5-5711-8330-2665c84d9eab
-DESCRIPTION:MuscleFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362327
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CycleFit - Ron Edwards - Wednesday 7:00 PM
-DTSTART;TZID=America/Toronto:20260114T190000
-DTEND;TZID=America/Toronto:20260114T194500
-DTSTAMP;TZID=America/Toronto:20260114T190000
-UID:f5f3adda-ae5a-53a0-8162-2f7832cccd39
+SUMMARY:CycleFit - Ron Edwards - Saturday 9:15 AM
+DTSTART;TZID=America/Toronto:20260117T091500
+DTEND;TZID=America/Toronto:20260117T100000
+DTSTAMP;TZID=America/Toronto:20260117T091500
+UID:005cfda2-7dd0-593e-b888-2446d027c1ba
 DESCRIPTION:CycleFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
+LAST-MODIFIED:20260111T065841Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362326
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga - Ron Edwards - Wednesday 8:00 PM
-DTSTART;TZID=America/Toronto:20260114T200000
-DTEND;TZID=America/Toronto:20260114T204500
-DTSTAMP;TZID=America/Toronto:20260114T200000
-UID:5f98d1aa-887a-5494-81e5-137afab9ac14
-DESCRIPTION:Yoga\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362330
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Racquetball - Ron Edwards - Thursday 6:00 AM
-DTSTART;TZID=America/Toronto:20260115T060000
-DTEND;TZID=America/Toronto:20260115T173000
-DTSTAMP;TZID=America/Toronto:20260115T060000
-UID:f6b07aff-c773-5760-97c8-2600c4f97e04
-DESCRIPTION:Racquetball\n\n\nDuration: 11h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362331
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Thursday 7:30 AM
-DTSTART;TZID=America/Toronto:20260115T073000
-DTEND;TZID=America/Toronto:20260115T103000
-DTSTAMP;TZID=America/Toronto:20260115T073000
-UID:c6fbd26a-9c04-5bbf-8a40-75bdeadf14ef
-DESCRIPTION:Lane Swim\n\n\nDuration: 3 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bodyfit - Ron Edwards - Thursday 9:15 AM
-DTSTART;TZID=America/Toronto:20260115T091500
-DTEND;TZID=America/Toronto:20260115T100000
-DTSTAMP;TZID=America/Toronto:20260115T091500
-UID:3eab8994-968f-529e-a470-ab843c14fa81
-DESCRIPTION:Bodyfit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CycleFIt - Ron Edwards - Thursday 9:15 AM
-DTSTART;TZID=America/Toronto:20260115T091500
-DTEND;TZID=America/Toronto:20260115T101500
-DTSTAMP;TZID=America/Toronto:20260115T091500
-UID:dbf468fe-8e0f-574d-84ac-c0a6b5b17cf2
-DESCRIPTION:CycleFit\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362335
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GentleFit - Ron Edwards - Thursday 10:15 AM
-DTSTART;TZID=America/Toronto:20260115T101500
-DTEND;TZID=America/Toronto:20260115T110000
-DTSTAMP;TZID=America/Toronto:20260115T101500
-UID:d9aae78a-c0d7-54dc-9eb3-a540056b0b3b
-DESCRIPTION:GentleFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363265
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Thursday 10:30 AM
-DTSTART;TZID=America/Toronto:20260115T103000
-DTEND;TZID=America/Toronto:20260115T130000
-DTSTAMP;TZID=America/Toronto:20260115T103000
-UID:f8f5c2dd-a213-55e3-9843-b203ec00f9aa
-DESCRIPTION:Lane Swim\n\n\nDuration: 2h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362333
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
-DTSTART;TZID=America/Toronto:20260108T113000
-DTEND;TZID=America/Toronto:20260108T130000
-DTSTAMP;TZID=America/Toronto:20260108T113000
-UID:591cb8d5-d528-5f32-b22c-70b193f8384e
-DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363254
+ NST-362359
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hydrotherapy - Ron Edwards - Thursday 1:15 PM
@@ -260,22 +20,394 @@ DTEND;TZID=America/Toronto:20260115T140000
 DTSTAMP;TZID=America/Toronto:20260115T131500
 UID:0214104a-1dd2-5cf5-8963-98cc7fa40dc1
 DESCRIPTION:Hydrotherapy\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
+LAST-MODIFIED:20260111T065841Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-362337
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Thursday 2:30 PM
-DTSTART;TZID=America/Toronto:20260115T143000
-DTEND;TZID=America/Toronto:20260115T153000
-DTSTAMP;TZID=America/Toronto:20260115T143000
-UID:a16c78cf-751d-58fc-943d-b07ebfefdf89
-DESCRIPTION:Lane Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
+SUMMARY:Yoga - Ron Edwards - Tuesday 7:00 PM
+DTSTART;TZID=America/Toronto:20260113T190000
+DTEND;TZID=America/Toronto:20260113T203000
+DTSTAMP;TZID=America/Toronto:20260113T190000
+UID:02c1df2e-a1c5-527d-87fb-10586344eba9
+DESCRIPTION:Yoga\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362338
+ NST-362310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AquaFit - Ron Edwards - Monday 9:15 AM
+DTSTART;TZID=America/Toronto:20260112T091500
+DTEND;TZID=America/Toronto:20260112T100000
+DTSTAMP;TZID=America/Toronto:20260112T091500
+UID:0dd995c6-0439-52a9-be20-a43b74baba4e
+DESCRIPTION:AquaFit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362287
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Racquetball - Ron Edwards - Tuesday 6:00 AM
+DTSTART;TZID=America/Toronto:20260113T060000
+DTEND;TZID=America/Toronto:20260113T173000
+DTSTAMP;TZID=America/Toronto:20260113T060000
+UID:1ad1bbd9-f757-5f2c-8ad1-cf806c375b3a
+DESCRIPTION:Racquetball\n\n\nDuration: 11h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362300
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba - Ron Edwards - Tuesday 7:15 PM
+DTSTART;TZID=America/Toronto:20260113T191500
+DTEND;TZID=America/Toronto:20260113T201500
+DTSTAMP;TZID=America/Toronto:20260113T191500
+UID:1ada07d7-c9aa-5737-95cf-400b5438900e
+DESCRIPTION:Zumba\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362312
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MuscleFit - Ron Edwards - Wednesday 7:00 PM
+DTSTART;TZID=America/Toronto:20260114T190000
+DTEND;TZID=America/Toronto:20260114T194500
+DTSTAMP;TZID=America/Toronto:20260114T190000
+UID:1ec93496-4ee5-5711-8330-2665c84d9eab
+DESCRIPTION:MuscleFit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362327
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Friday 7:30 AM
+DTSTART;TZID=America/Toronto:20260116T073000
+DTEND;TZID=America/Toronto:20260116T090000
+DTSTAMP;TZID=America/Toronto:20260116T073000
+UID:1fd851eb-56cf-5c37-99e3-04e418c89aab
+DESCRIPTION:Lane Swim\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362344
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MuscleFit - Ron Edwards - Monday 10:15 AM
+DTSTART;TZID=America/Toronto:20260112T101500
+DTEND;TZID=America/Toronto:20260112T110000
+DTSTAMP;TZID=America/Toronto:20260112T101500
+UID:214c4d4b-46ca-5d44-9e49-2d2a45605c83
+DESCRIPTION:MuscleFit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362288
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AquaFit - Ron Edwards - Wednesday 9:15 AM
+DTSTART;TZID=America/Toronto:20260114T091500
+DTEND;TZID=America/Toronto:20260114T100000
+DTSTAMP;TZID=America/Toronto:20260114T091500
+UID:2636c178-a055-5f46-9ec3-5cc75a04895b
+DESCRIPTION:AquaFit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GentleFit - Ron Edwards - Tuesday 10:15 AM
+DTSTART;TZID=America/Toronto:20260113T101500
+DTEND;TZID=America/Toronto:20260113T110000
+DTSTAMP;TZID=America/Toronto:20260113T101500
+UID:28bce82f-b6bc-56e1-a293-85135ab1e1e8
+DESCRIPTION:GentleFit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363262
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Swim - Ron Edwards - Friday 7:30 PM
+DTSTART;TZID=America/Toronto:20260116T193000
+DTEND;TZID=America/Toronto:20260116T211500
+DTSTAMP;TZID=America/Toronto:20260116T193000
+UID:28d61cad-05b3-5da1-98e5-c47d0d05cbc1
+DESCRIPTION:Open Swim\n\n\nDuration: 1h:45m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Low Impact - Ron Edwards - Tuesday 10:15 AM
+DTSTART;TZID=America/Toronto:20260113T101500
+DTEND;TZID=America/Toronto:20260113T110000
+DTSTAMP;TZID=America/Toronto:20260113T101500
+UID:28f0810f-2230-565b-8244-4e1de3181f20
+DESCRIPTION:Low Impact\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Monday 10:30 AM
+DTSTART;TZID=America/Toronto:20260112T103000
+DTEND;TZID=America/Toronto:20260112T140000
+DTSTAMP;TZID=America/Toronto:20260112T103000
+UID:33842e41-4a2e-5400-b239-fce6cd950f58
+DESCRIPTION:Lane Swim\n\n\nDuration: 3h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362290
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birthday Pary - Ron Edwards - Saturday 1:00 PM
+DTSTART;TZID=America/Toronto:20260131T130000
+DTEND;TZID=America/Toronto:20260131T150000
+DTSTAMP;TZID=America/Toronto:20260131T130000
+UID:3b990514-489c-5b18-82e0-32633fc69ccb
+DESCRIPTION:Birthday Party\n\n\nDuration: 2 hours
+LAST-MODIFIED:20260111T065842Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362157
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Wednesday 10:30 AM
+DTSTART;TZID=America/Toronto:20260114T103000
+DTEND;TZID=America/Toronto:20260114T140000
+DTSTAMP;TZID=America/Toronto:20260114T103000
+UID:3b9c3d79-eab8-5d9a-aa0e-a94d18f0fd37
+DESCRIPTION:Lane Swim\n\n\nDuration: 3h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362319
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodyfit - Ron Edwards - Thursday 9:15 AM
+DTSTART;TZID=America/Toronto:20260115T091500
+DTEND;TZID=America/Toronto:20260115T100000
+DTSTAMP;TZID=America/Toronto:20260115T091500
+UID:3eab8994-968f-529e-a470-ab843c14fa81
+DESCRIPTION:Bodyfit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Tuesday 7:45 PM
+DTSTART;TZID=America/Toronto:20260113T194500
+DTEND;TZID=America/Toronto:20260113T211500
+DTSTAMP;TZID=America/Toronto:20260113T194500
+UID:437dbf06-44d6-55f4-84d8-3a7dbf8d17a6
+DESCRIPTION:Lane Swim\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodyfit - Ron Edwards - Tuesday 9:15 AM
+DTSTART;TZID=America/Toronto:20260113T091500
+DTEND;TZID=America/Toronto:20260113T100000
+DTSTAMP;TZID=America/Toronto:20260113T091500
+UID:4636a83f-88d3-5f58-a643-43eaaec1d34c
+DESCRIPTION:Bodyfit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Swim - Ron Edwards - Saturday 1:15 PM
+DTSTART;TZID=America/Toronto:20260117T131500
+DTEND;TZID=America/Toronto:20260117T150000
+DTSTAMP;TZID=America/Toronto:20260117T131500
+UID:486e4f4f-6377-5c4e-8297-25c3a9ed5e56
+DESCRIPTION:Family Swim\n\n\nDuration: 1h:45m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walk Fit - Ron Edwards - Monday 11:15 AM
+DTSTART;TZID=America/Toronto:20260112T111500
+DTEND;TZID=America/Toronto:20260112T120000
+DTSTAMP;TZID=America/Toronto:20260112T111500
+UID:4b430a4d-fdbf-5a91-859b-b3f0ff1c4a88
+DESCRIPTION:Walk Fit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga - Ron Edwards - Monday 10:15 AM
+DTSTART;TZID=America/Toronto:20260112T101500
+DTEND;TZID=America/Toronto:20260112T114500
+DTSTAMP;TZID=America/Toronto:20260112T101500
+UID:4b916054-0982-594f-ab68-b93d7d0dafb6
+DESCRIPTION:Yoga\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362289
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MuscleFit - Ron Edwards - Friday 9:15 AM
+DTSTART;TZID=America/Toronto:20260116T091500
+DTEND;TZID=America/Toronto:20260116T100000
+DTSTAMP;TZID=America/Toronto:20260116T091500
+UID:4c09d14b-9c91-528c-8abf-b8f3b67c5c6f
+DESCRIPTION:MuscleFit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362345
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Tuesday 2:30 PM
+DTSTART;TZID=America/Toronto:20260113T143000
+DTEND;TZID=America/Toronto:20260113T153000
+DTSTAMP;TZID=America/Toronto:20260113T143000
+UID:4f9f3a3c-4aed-5a24-8c41-c5821052f0b5
+DESCRIPTION:Lane Swim\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CycleFit Train - Ron Edwards - Monday 7:00 PM
+DTSTART;TZID=America/Toronto:20260112T190000
+DTEND;TZID=America/Toronto:20260112T194500
+DTSTAMP;TZID=America/Toronto:20260112T190000
+UID:542d968a-7f9f-515a-b473-8bfd5555b357
+DESCRIPTION:CycleFit Train\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362297
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
+DTSTART;TZID=America/Toronto:20260108T113000
+DTEND;TZID=America/Toronto:20260108T130000
+DTSTAMP;TZID=America/Toronto:20260108T113000
+UID:591cb8d5-d528-5f32-b22c-70b193f8384e
+DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
+DTSTART;TZID=America/Toronto:20260106T113000
+DTEND;TZID=America/Toronto:20260106T130000
+DTSTAMP;TZID=America/Toronto:20260106T113000
+UID:591cb8d5-d528-5f32-b22c-70b193f8384e
+DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
+DTSTART;TZID=America/Toronto:20260106T113000
+DTEND;TZID=America/Toronto:20260106T130000
+DTSTAMP;TZID=America/Toronto:20260106T113000
+UID:591cb8d5-d528-5f32-b22c-70b193f8384e
+DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
+DTSTART;TZID=America/Toronto:20260108T113000
+DTEND;TZID=America/Toronto:20260108T130000
+DTSTAMP;TZID=America/Toronto:20260108T113000
+UID:591cb8d5-d528-5f32-b22c-70b193f8384e
+DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
+DTSTART;TZID=America/Toronto:20260108T113000
+DTEND;TZID=America/Toronto:20260108T130000
+DTSTAMP;TZID=America/Toronto:20260108T113000
+UID:591cb8d5-d528-5f32-b22c-70b193f8384e
+DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065842Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
+DTSTART;TZID=America/Toronto:20260106T113000
+DTEND;TZID=America/Toronto:20260106T130000
+DTSTAMP;TZID=America/Toronto:20260106T113000
+UID:591cb8d5-d528-5f32-b22c-70b193f8384e
+DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065842Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
+DTSTART;TZID=America/Toronto:20260106T113000
+DTEND;TZID=America/Toronto:20260106T130000
+DTSTAMP;TZID=America/Toronto:20260106T113000
+UID:591cb8d5-d528-5f32-b22c-70b193f8384e
+DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065842Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
+DTSTART;TZID=America/Toronto:20260108T113000
+DTEND;TZID=America/Toronto:20260108T130000
+DTSTAMP;TZID=America/Toronto:20260108T113000
+UID:591cb8d5-d528-5f32-b22c-70b193f8384e
+DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065842Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Wednesday 7:30 AM
+DTSTART;TZID=America/Toronto:20260114T073000
+DTEND;TZID=America/Toronto:20260114T090000
+DTSTAMP;TZID=America/Toronto:20260114T073000
+UID:59f33aae-7afe-5fe1-888b-3f8e429c6fa5
+DESCRIPTION:Lane Swim\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362316
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zumba - Ron Edwards - Thursday 7:15 PM
@@ -284,10 +416,34 @@ DTEND;TZID=America/Toronto:20260115T201500
 DTSTAMP;TZID=America/Toronto:20260115T191500
 UID:5afed336-64b9-5a4b-90e2-f820de5659a8
 DESCRIPTION:Zumba\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
+LAST-MODIFIED:20260111T065841Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-362340
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Swim - Ron Edwards - Monday 2:00 PM
+DTSTART;TZID=America/Toronto:20260112T140000
+DTEND;TZID=America/Toronto:20260112T150000
+DTSTAMP;TZID=America/Toronto:20260112T140000
+UID:5beab2c0-3af6-573a-bf45-9b1f796ce48a
+DESCRIPTION:Open Swim\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362294
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Racquetball - Ron Edwards - Friday 6:00 AM
+DTSTART;TZID=America/Toronto:20260116T060000
+DTEND;TZID=America/Toronto:20260116T213000
+DTSTAMP;TZID=America/Toronto:20260116T060000
+UID:5caf364e-9143-5ce1-8ea4-c372f3c3c884
+DESCRIPTION:Racquetball\n\n\nDuration: 15h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362343
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Thursday 7:45 PM
@@ -296,7 +452,7 @@ DTEND;TZID=America/Toronto:20260115T211500
 DTSTAMP;TZID=America/Toronto:20260115T194500
 UID:5ed07319-9a5f-5bb6-8248-0616c030b84e
 DESCRIPTION:Lane Swim\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
+LAST-MODIFIED:20260111T065841Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-362341
@@ -308,478 +464,22 @@ DTEND;TZID=America/Toronto:20260117T091500
 DTSTAMP;TZID=America/Toronto:20260117T080000
 UID:5f1e5305-1801-5658-a2dd-9ab367d6366d
 DESCRIPTION:Lane Swim\n\n\nDuration: 1h:15m
-LAST-MODIFIED:20260111T041127Z
+LAST-MODIFIED:20260111T065841Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-362357
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Racquetball - Ron Edwards - Saturday 8:00 AM
-DTSTART;TZID=America/Toronto:20260117T080000
-DTEND;TZID=America/Toronto:20260117T100000
-DTSTAMP;TZID=America/Toronto:20260117T080000
-UID:6dedc2a4-75dc-5ca2-b55b-d0952f4fb3ed
-DESCRIPTION:Racquetball\n\n\nDuration: 2 hours
-LAST-MODIFIED:20260111T041127Z
+SUMMARY:Yoga - Ron Edwards - Wednesday 8:00 PM
+DTSTART;TZID=America/Toronto:20260114T200000
+DTEND;TZID=America/Toronto:20260114T204500
+DTSTAMP;TZID=America/Toronto:20260114T200000
+UID:5f98d1aa-887a-5494-81e5-137afab9ac14
+DESCRIPTION:Yoga\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362356
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CycleFit - Ron Edwards - Saturday 9:15 AM
-DTSTART;TZID=America/Toronto:20260117T091500
-DTEND;TZID=America/Toronto:20260117T100000
-DTSTAMP;TZID=America/Toronto:20260117T091500
-UID:005cfda2-7dd0-593e-b888-2446d027c1ba
-DESCRIPTION:CycleFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362359
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba - Ron Edwards - Saturday 10:30 AM
-DTSTART;TZID=America/Toronto:20260117T103000
-DTEND;TZID=America/Toronto:20260117T113000
-DTSTAMP;TZID=America/Toronto:20260117T103000
-UID:f585172c-bf8a-578c-a56e-196b29840c2c
-DESCRIPTION:Zumba\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362360
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Swim - Ron Edwards - Saturday 1:15 PM
-DTSTART;TZID=America/Toronto:20260117T131500
-DTEND;TZID=America/Toronto:20260117T150000
-DTSTAMP;TZID=America/Toronto:20260117T131500
-UID:486e4f4f-6377-5c4e-8297-25c3a9ed5e56
-DESCRIPTION:Family Swim\n\n\nDuration: 1h:45m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362361
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Saturday 3:15 PM
-DTSTART;TZID=America/Toronto:20260117T151500
-DTEND;TZID=America/Toronto:20260117T171500
-DTSTAMP;TZID=America/Toronto:20260117T151500
-UID:c016bc20-56c6-5ba5-9a12-17e45c32b439
-DESCRIPTION:Lane Swim\n\n\nDuration: 2 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362363
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Tumblers - Ron Edwards - Monday 5:00 PM
-DTSTART;TZID=America/Toronto:20260105T170000
-DTEND;TZID=America/Toronto:20260105T174500
-DTSTAMP;TZID=America/Toronto:20260105T170000
-UID:f7e3a77c-183f-5dfc-856a-39461c919560
-DESCRIPTION:Little Tumblers\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-361958
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Tumblers - Ron Edwards - Monday 5:00 PM
-DTSTART;TZID=America/Toronto:20260105T170000
-DTEND;TZID=America/Toronto:20260105T174500
-DTSTAMP;TZID=America/Toronto:20260105T170000
-UID:f7e3a77c-183f-5dfc-856a-39461c919560
-DESCRIPTION:Little Tumblers\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-361958
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
-DTSTART;TZID=America/Toronto:20260108T113000
-DTEND;TZID=America/Toronto:20260108T130000
-DTSTAMP;TZID=America/Toronto:20260108T113000
-UID:591cb8d5-d528-5f32-b22c-70b193f8384e
-DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363254
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
-DTSTART;TZID=America/Toronto:20260106T113000
-DTEND;TZID=America/Toronto:20260106T130000
-DTSTAMP;TZID=America/Toronto:20260106T113000
-UID:591cb8d5-d528-5f32-b22c-70b193f8384e
-DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363254
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Birthday Pary - Ron Edwards - Saturday 1:00 PM
-DTSTART;TZID=America/Toronto:20260124T130000
-DTEND;TZID=America/Toronto:20260124T150000
-DTSTAMP;TZID=America/Toronto:20260124T130000
-UID:9f72606c-03cc-5512-b9c2-7feefd562893
-DESCRIPTION:Birthday Party\n\n\nDuration: 2 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362156
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Racquetball - Ron Edwards - Friday 6:00 AM
-DTSTART;TZID=America/Toronto:20260116T060000
-DTEND;TZID=America/Toronto:20260116T213000
-DTSTAMP;TZID=America/Toronto:20260116T060000
-UID:5caf364e-9143-5ce1-8ea4-c372f3c3c884
-DESCRIPTION:Racquetball\n\n\nDuration: 15h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362343
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Friday 7:30 AM
-DTSTART;TZID=America/Toronto:20260116T073000
-DTEND;TZID=America/Toronto:20260116T090000
-DTSTAMP;TZID=America/Toronto:20260116T073000
-UID:1fd851eb-56cf-5c37-99e3-04e418c89aab
-DESCRIPTION:Lane Swim\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362344
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AquaFit - Ron Edwards - Friday 9:15 AM
-DTSTART;TZID=America/Toronto:20260116T091500
-DTEND;TZID=America/Toronto:20260116T100000
-DTSTAMP;TZID=America/Toronto:20260116T091500
-UID:dfda2c0c-6ab8-5198-a0f8-8aa4a92a3bf4
-DESCRIPTION:AquaFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362347
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Line Dancing - Ron Edwards - Friday 9:15 AM
-DTSTART;TZID=America/Toronto:20260116T091500
-DTEND;TZID=America/Toronto:20260116T100000
-DTSTAMP;TZID=America/Toronto:20260116T091500
-UID:85db7e2e-98d7-5185-9daa-709e357877a3
-DESCRIPTION:Line Dancing\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362346
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MuscleFit - Ron Edwards - Friday 9:15 AM
-DTSTART;TZID=America/Toronto:20260116T091500
-DTEND;TZID=America/Toronto:20260116T100000
-DTSTAMP;TZID=America/Toronto:20260116T091500
-UID:4c09d14b-9c91-528c-8abf-b8f3b67c5c6f
-DESCRIPTION:MuscleFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362345
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Low Impact - Ron Edwards - Friday 10:15 AM
-DTSTART;TZID=America/Toronto:20260116T101500
-DTEND;TZID=America/Toronto:20260116T110000
-DTSTAMP;TZID=America/Toronto:20260116T101500
-UID:c3b9c48f-480c-5d5f-b798-3a60ac056fd3
-DESCRIPTION:Low Impact\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362348
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga - Ron Edwards - Friday 10:15 AM
-DTSTART;TZID=America/Toronto:20260116T101500
-DTEND;TZID=America/Toronto:20260116T114500
-DTSTAMP;TZID=America/Toronto:20260116T101500
-UID:62c3a762-922a-5e94-9609-240ec0cc828b
-DESCRIPTION:Yoga\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362349
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Friday 10:30 AM
-DTSTART;TZID=America/Toronto:20260116T103000
-DTEND;TZID=America/Toronto:20260116T143000
-DTSTAMP;TZID=America/Toronto:20260116T103000
-UID:70de248a-d56a-524f-b9b7-c3bf48650a00
-DESCRIPTION:Lane Swim\n\n\nDuration: 4 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362350
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Swim - Ron Edwards - Friday 2:30 PM
-DTSTART;TZID=America/Toronto:20260116T143000
-DTEND;TZID=America/Toronto:20260116T153000
-DTSTAMP;TZID=America/Toronto:20260116T143000
-UID:8d7f34a5-6762-5d20-af9a-b0d22c6f0d9d
-DESCRIPTION:Open Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362352
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Friday 7:30 PM
-DTSTART;TZID=America/Toronto:20260116T193000
-DTEND;TZID=America/Toronto:20260116T211500
-DTSTAMP;TZID=America/Toronto:20260116T193000
-UID:e2ded143-c5ec-5420-a307-f13784919247
-DESCRIPTION:Lane Swim\n\n\nDuration: 1h:45m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362355
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Swim - Ron Edwards - Friday 7:30 PM
-DTSTART;TZID=America/Toronto:20260116T193000
-DTEND;TZID=America/Toronto:20260116T211500
-DTSTAMP;TZID=America/Toronto:20260116T193000
-UID:28d61cad-05b3-5da1-98e5-c47d0d05cbc1
-DESCRIPTION:Open Swim\n\n\nDuration: 1h:45m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362354
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Monday 7:30 AM
-DTSTART;TZID=America/Toronto:20260112T073000
-DTEND;TZID=America/Toronto:20260112T090000
-DTSTAMP;TZID=America/Toronto:20260112T073000
-UID:9dcca8d5-7296-5714-9275-aa4176aa5a91
-DESCRIPTION:Lane Swim\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362285
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AquaFit - Ron Edwards - Monday 9:15 AM
-DTSTART;TZID=America/Toronto:20260112T091500
-DTEND;TZID=America/Toronto:20260112T100000
-DTSTAMP;TZID=America/Toronto:20260112T091500
-UID:0dd995c6-0439-52a9-be20-a43b74baba4e
-DESCRIPTION:AquaFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362287
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MuscleFit - Ron Edwards - Monday 10:15 AM
-DTSTART;TZID=America/Toronto:20260112T101500
-DTEND;TZID=America/Toronto:20260112T110000
-DTSTAMP;TZID=America/Toronto:20260112T101500
-UID:214c4d4b-46ca-5d44-9e49-2d2a45605c83
-DESCRIPTION:MuscleFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362288
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga - Ron Edwards - Monday 10:15 AM
-DTSTART;TZID=America/Toronto:20260112T101500
-DTEND;TZID=America/Toronto:20260112T114500
-DTSTAMP;TZID=America/Toronto:20260112T101500
-UID:4b916054-0982-594f-ab68-b93d7d0dafb6
-DESCRIPTION:Yoga\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362289
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Monday 10:30 AM
-DTSTART;TZID=America/Toronto:20260112T103000
-DTEND;TZID=America/Toronto:20260112T140000
-DTSTAMP;TZID=America/Toronto:20260112T103000
-UID:33842e41-4a2e-5400-b239-fce6cd950f58
-DESCRIPTION:Lane Swim\n\n\nDuration: 3h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362290
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walk Fit - Ron Edwards - Monday 11:15 AM
-DTSTART;TZID=America/Toronto:20260112T111500
-DTEND;TZID=America/Toronto:20260112T120000
-DTSTAMP;TZID=America/Toronto:20260112T111500
-UID:4b430a4d-fdbf-5a91-859b-b3f0ff1c4a88
-DESCRIPTION:Walk Fit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363261
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Swim - Ron Edwards - Monday 2:00 PM
-DTSTART;TZID=America/Toronto:20260112T140000
-DTEND;TZID=America/Toronto:20260112T150000
-DTSTAMP;TZID=America/Toronto:20260112T140000
-UID:5beab2c0-3af6-573a-bf45-9b1f796ce48a
-DESCRIPTION:Open Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362294
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Tumblers - Ron Edwards - Monday 5:00 PM
-DTSTART;TZID=America/Toronto:20260105T170000
-DTEND;TZID=America/Toronto:20260105T174500
-DTSTAMP;TZID=America/Toronto:20260105T170000
-UID:f7e3a77c-183f-5dfc-856a-39461c919560
-DESCRIPTION:Little Tumblers\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-361958
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Racquetball - Ron Edwards - Monday 5:30 PM
-DTSTART;TZID=America/Toronto:20260112T173000
-DTEND;TZID=America/Toronto:20260112T203000
-DTSTAMP;TZID=America/Toronto:20260112T173000
-UID:e896c851-0059-5113-809f-a41a60c76154
-DESCRIPTION:Racquetball\n\n\nDuration: 3 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362284
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CycleFit Train - Ron Edwards - Monday 7:00 PM
-DTSTART;TZID=America/Toronto:20260112T190000
-DTEND;TZID=America/Toronto:20260112T194500
-DTSTAMP;TZID=America/Toronto:20260112T190000
-UID:542d968a-7f9f-515a-b473-8bfd5555b357
-DESCRIPTION:CycleFit Train\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362297
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AquaFit High Intensity - Ron Edwards - Monday 7:30 PM
-DTSTART;TZID=America/Toronto:20260112T193000
-DTEND;TZID=America/Toronto:20260112T201000
-DTSTAMP;TZID=America/Toronto:20260112T193000
-UID:ad24f50a-a01d-5423-8309-0ddaf2146e3e
-DESCRIPTION:AquaFit High Intensity\n\n\nDuration: 40 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362298
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Racquetball - Ron Edwards - Tuesday 6:00 AM
-DTSTART;TZID=America/Toronto:20260113T060000
-DTEND;TZID=America/Toronto:20260113T173000
-DTSTAMP;TZID=America/Toronto:20260113T060000
-UID:1ad1bbd9-f757-5f2c-8ad1-cf806c375b3a
-DESCRIPTION:Racquetball\n\n\nDuration: 11h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362300
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Tuesday 7:30 AM
-DTSTART;TZID=America/Toronto:20260113T073000
-DTEND;TZID=America/Toronto:20260113T130000
-DTSTAMP;TZID=America/Toronto:20260113T073000
-UID:872e1ed8-0cc4-521f-9536-3cdf6326382d
-DESCRIPTION:Lane Swim\n\n\nDuration: 5h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bodyfit - Ron Edwards - Tuesday 9:15 AM
-DTSTART;TZID=America/Toronto:20260113T091500
-DTEND;TZID=America/Toronto:20260113T100000
-DTSTAMP;TZID=America/Toronto:20260113T091500
-UID:4636a83f-88d3-5f58-a643-43eaaec1d34c
-DESCRIPTION:Bodyfit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362302
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CycleFit - Ron Edwards - Tuesday 9:15 AM
-DTSTART;TZID=America/Toronto:20260113T091500
-DTEND;TZID=America/Toronto:20260113T100000
-DTSTAMP;TZID=America/Toronto:20260113T091500
-UID:d7ddf505-9bea-5e64-bd87-b4e7f8381e32
-DESCRIPTION:CycleFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GentleFit - Ron Edwards - Tuesday 10:15 AM
-DTSTART;TZID=America/Toronto:20260113T101500
-DTEND;TZID=America/Toronto:20260113T110000
-DTSTAMP;TZID=America/Toronto:20260113T101500
-UID:28bce82f-b6bc-56e1-a293-85135ab1e1e8
-DESCRIPTION:GentleFit\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363262
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Low Impact - Ron Edwards - Tuesday 10:15 AM
-DTSTART;TZID=America/Toronto:20260113T101500
-DTEND;TZID=America/Toronto:20260113T110000
-DTSTAMP;TZID=America/Toronto:20260113T101500
-UID:28f0810f-2230-565b-8244-4e1de3181f20
-DESCRIPTION:Low Impact\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
-DTSTART;TZID=America/Toronto:20260106T113000
-DTEND;TZID=America/Toronto:20260106T130000
-DTSTAMP;TZID=America/Toronto:20260106T113000
-UID:591cb8d5-d528-5f32-b22c-70b193f8384e
-DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363254
+ NST-362330
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hydrotherapy - Ron Edwards - Tuesday 1:15 PM
@@ -788,154 +488,10 @@ DTEND;TZID=America/Toronto:20260113T140000
 DTSTAMP;TZID=America/Toronto:20260113T131500
 UID:5fee9b3c-1ace-5a6f-bbea-b4d92c49ffc7
 DESCRIPTION:Hydrotherapy\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
+LAST-MODIFIED:20260111T065841Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-362305
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Tuesday 2:30 PM
-DTSTART;TZID=America/Toronto:20260113T143000
-DTEND;TZID=America/Toronto:20260113T153000
-DTSTAMP;TZID=America/Toronto:20260113T143000
-UID:4f9f3a3c-4aed-5a24-8c41-c5821052f0b5
-DESCRIPTION:Lane Swim\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Racquetball - Ron Edwards - Tuesday 7:00 PM
-DTSTART;TZID=America/Toronto:20260113T190000
-DTEND;TZID=America/Toronto:20260113T213000
-DTSTAMP;TZID=America/Toronto:20260113T190000
-UID:ae446898-e24c-53eb-a3a1-509f433f8ffe
-DESCRIPTION:Racquetball\n\n\nDuration: 2h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362311
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga - Ron Edwards - Tuesday 7:00 PM
-DTSTART;TZID=America/Toronto:20260113T190000
-DTEND;TZID=America/Toronto:20260113T203000
-DTSTAMP;TZID=America/Toronto:20260113T190000
-UID:02c1df2e-a1c5-527d-87fb-10586344eba9
-DESCRIPTION:Yoga\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba - Ron Edwards - Tuesday 7:15 PM
-DTSTART;TZID=America/Toronto:20260113T191500
-DTEND;TZID=America/Toronto:20260113T201500
-DTSTAMP;TZID=America/Toronto:20260113T191500
-UID:1ada07d7-c9aa-5737-95cf-400b5438900e
-DESCRIPTION:Zumba\n\n\nDuration: 1 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362312
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Tuesday 7:45 PM
-DTSTART;TZID=America/Toronto:20260113T194500
-DTEND;TZID=America/Toronto:20260113T211500
-DTSTAMP;TZID=America/Toronto:20260113T194500
-UID:437dbf06-44d6-55f4-84d8-3a7dbf8d17a6
-DESCRIPTION:Lane Swim\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362313
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Tumblers - Ron Edwards - Monday 5:00 PM
-DTSTART;TZID=America/Toronto:20260105T170000
-DTEND;TZID=America/Toronto:20260105T174500
-DTSTAMP;TZID=America/Toronto:20260105T170000
-UID:f7e3a77c-183f-5dfc-856a-39461c919560
-DESCRIPTION:Little Tumblers\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-361958
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
-DTSTART;TZID=America/Toronto:20260106T113000
-DTEND;TZID=America/Toronto:20260106T130000
-DTSTAMP;TZID=America/Toronto:20260106T113000
-UID:591cb8d5-d528-5f32-b22c-70b193f8384e
-DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363254
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Birthday Pary - Ron Edwards - Saturday 1:00 PM
-DTSTART;TZID=America/Toronto:20260131T130000
-DTEND;TZID=America/Toronto:20260131T150000
-DTSTAMP;TZID=America/Toronto:20260131T130000
-UID:3b990514-489c-5b18-82e0-32633fc69ccb
-DESCRIPTION:Birthday Party\n\n\nDuration: 2 hours
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-362157
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
-DTSTART;TZID=America/Toronto:20260106T113000
-DTEND;TZID=America/Toronto:20260106T130000
-DTSTAMP;TZID=America/Toronto:20260106T113000
-UID:591cb8d5-d528-5f32-b22c-70b193f8384e
-DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363254
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
-DTSTART;TZID=America/Toronto:20260108T113000
-DTEND;TZID=America/Toronto:20260108T130000
-DTSTAMP;TZID=America/Toronto:20260108T113000
-UID:591cb8d5-d528-5f32-b22c-70b193f8384e
-DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041127Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363254
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Healthy Hearts - Ron Edwards - Tuesday/Thursday 11:30 AM
-DTSTART;TZID=America/Toronto:20260108T113000
-DTEND;TZID=America/Toronto:20260108T130000
-DTSTAMP;TZID=America/Toronto:20260108T113000
-UID:591cb8d5-d528-5f32-b22c-70b193f8384e
-DESCRIPTION:Healthy Hearts\n\n\nDuration: 1h:30m
-LAST-MODIFIED:20260111T041128Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-363254
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Tumblers - Ron Edwards - Monday 5:00 PM
-DTSTART;TZID=America/Toronto:20260105T170000
-DTEND;TZID=America/Toronto:20260105T174500
-DTSTAMP;TZID=America/Toronto:20260105T170000
-UID:f7e3a77c-183f-5dfc-856a-39461c919560
-DESCRIPTION:Little Tumblers\n\n\nDuration: 45 minutes
-LAST-MODIFIED:20260111T041128Z
-LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-361958
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Birthday Pary - Ron Edwards - Saturday 1:00 PM
@@ -944,9 +500,453 @@ DTEND;TZID=America/Toronto:20260207T150000
 DTSTAMP;TZID=America/Toronto:20260207T130000
 UID:61dc306b-5eee-52f2-9504-6af6151e9390
 DESCRIPTION:Birthday Party\n\n\nDuration: 2 hours
-LAST-MODIFIED:20260111T041128Z
+LAST-MODIFIED:20260111T065842Z
 LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-362158
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga - Ron Edwards - Friday 10:15 AM
+DTSTART;TZID=America/Toronto:20260116T101500
+DTEND;TZID=America/Toronto:20260116T114500
+DTSTAMP;TZID=America/Toronto:20260116T101500
+UID:62c3a762-922a-5e94-9609-240ec0cc828b
+DESCRIPTION:Yoga\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362349
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Racquetball - Ron Edwards - Saturday 8:00 AM
+DTSTART;TZID=America/Toronto:20260117T080000
+DTEND;TZID=America/Toronto:20260117T100000
+DTSTAMP;TZID=America/Toronto:20260117T080000
+UID:6dedc2a4-75dc-5ca2-b55b-d0952f4fb3ed
+DESCRIPTION:Racquetball\n\n\nDuration: 2 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362356
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Friday 10:30 AM
+DTSTART;TZID=America/Toronto:20260116T103000
+DTEND;TZID=America/Toronto:20260116T143000
+DTSTAMP;TZID=America/Toronto:20260116T103000
+UID:70de248a-d56a-524f-b9b7-c3bf48650a00
+DESCRIPTION:Lane Swim\n\n\nDuration: 4 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362350
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Line Dancing - Ron Edwards - Friday 9:15 AM
+DTSTART;TZID=America/Toronto:20260116T091500
+DTEND;TZID=America/Toronto:20260116T100000
+DTSTAMP;TZID=America/Toronto:20260116T091500
+UID:85db7e2e-98d7-5185-9daa-709e357877a3
+DESCRIPTION:Line Dancing\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362346
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Tuesday 7:30 AM
+DTSTART;TZID=America/Toronto:20260113T073000
+DTEND;TZID=America/Toronto:20260113T130000
+DTSTAMP;TZID=America/Toronto:20260113T073000
+UID:872e1ed8-0cc4-521f-9536-3cdf6326382d
+DESCRIPTION:Lane Swim\n\n\nDuration: 5h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Racquetball - Ron Edwards - Sunday 8:00 AM
+DTSTART;TZID=America/Toronto:20260111T080000
+DTEND;TZID=America/Toronto:20260111T160000
+DTSTAMP;TZID=America/Toronto:20260111T080000
+UID:8b2e2af7-b8e4-5ca7-ba97-da7e8d734c49
+DESCRIPTION:Racquetball\n\n\nDuration: 8 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362276
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Swim - Ron Edwards - Friday 2:30 PM
+DTSTART;TZID=America/Toronto:20260116T143000
+DTEND;TZID=America/Toronto:20260116T153000
+DTSTAMP;TZID=America/Toronto:20260116T143000
+UID:8d7f34a5-6762-5d20-af9a-b0d22c6f0d9d
+DESCRIPTION:Open Swim\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362352
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Monday 7:30 AM
+DTSTART;TZID=America/Toronto:20260112T073000
+DTEND;TZID=America/Toronto:20260112T090000
+DTSTAMP;TZID=America/Toronto:20260112T073000
+UID:9dcca8d5-7296-5714-9275-aa4176aa5a91
+DESCRIPTION:Lane Swim\n\n\nDuration: 1h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362285
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birthday Pary - Ron Edwards - Saturday 1:00 PM
+DTSTART;TZID=America/Toronto:20260124T130000
+DTEND;TZID=America/Toronto:20260124T150000
+DTSTAMP;TZID=America/Toronto:20260124T130000
+UID:9f72606c-03cc-5512-b9c2-7feefd562893
+DESCRIPTION:Birthday Party\n\n\nDuration: 2 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362156
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Thursday 2:30 PM
+DTSTART;TZID=America/Toronto:20260115T143000
+DTEND;TZID=America/Toronto:20260115T153000
+DTSTAMP;TZID=America/Toronto:20260115T143000
+UID:a16c78cf-751d-58fc-943d-b07ebfefdf89
+DESCRIPTION:Lane Swim\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362338
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga - Ron Edwards - Sunday 9:15 AM
+DTSTART;TZID=America/Toronto:20260111T091500
+DTEND;TZID=America/Toronto:20260111T101500
+DTSTAMP;TZID=America/Toronto:20260111T091500
+UID:a7baa62a-4e42-556d-91c5-c0e09deab339
+DESCRIPTION:Yoga\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362278
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AquaFit High Intensity - Ron Edwards - Monday 7:30 PM
+DTSTART;TZID=America/Toronto:20260112T193000
+DTEND;TZID=America/Toronto:20260112T201000
+DTSTAMP;TZID=America/Toronto:20260112T193000
+UID:ad24f50a-a01d-5423-8309-0ddaf2146e3e
+DESCRIPTION:AquaFit High Intensity\n\n\nDuration: 40 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362298
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Racquetball - Ron Edwards - Tuesday 7:00 PM
+DTSTART;TZID=America/Toronto:20260113T190000
+DTEND;TZID=America/Toronto:20260113T213000
+DTSTAMP;TZID=America/Toronto:20260113T190000
+UID:ae446898-e24c-53eb-a3a1-509f433f8ffe
+DESCRIPTION:Racquetball\n\n\nDuration: 2h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362311
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Saturday 3:15 PM
+DTSTART;TZID=America/Toronto:20260117T151500
+DTEND;TZID=America/Toronto:20260117T171500
+DTSTAMP;TZID=America/Toronto:20260117T151500
+UID:c016bc20-56c6-5ba5-9a12-17e45c32b439
+DESCRIPTION:Lane Swim\n\n\nDuration: 2 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362363
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Low Impact - Ron Edwards - Friday 10:15 AM
+DTSTART;TZID=America/Toronto:20260116T101500
+DTEND;TZID=America/Toronto:20260116T110000
+DTSTAMP;TZID=America/Toronto:20260116T101500
+UID:c3b9c48f-480c-5d5f-b798-3a60ac056fd3
+DESCRIPTION:Low Impact\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362348
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Swim - Ron Edwards - Sunday 2:45 PM
+DTSTART;TZID=America/Toronto:20260111T144500
+DTEND;TZID=America/Toronto:20260111T154500
+DTSTAMP;TZID=America/Toronto:20260111T144500
+UID:c4c2fac1-0b83-5172-b8e9-556c7b2dfdd7
+DESCRIPTION:Open Swim\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362282
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Thursday 7:30 AM
+DTSTART;TZID=America/Toronto:20260115T073000
+DTEND;TZID=America/Toronto:20260115T103000
+DTSTAMP;TZID=America/Toronto:20260115T073000
+UID:c6fbd26a-9c04-5bbf-8a40-75bdeadf14ef
+DESCRIPTION:Lane Swim\n\n\nDuration: 3 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Swim - Ron Edwards - Wednesday 2:00 PM
+DTSTART;TZID=America/Toronto:20260114T140000
+DTEND;TZID=America/Toronto:20260114T150000
+DTSTAMP;TZID=America/Toronto:20260114T140000
+UID:cd5518de-397b-539e-9dad-1aab8d560cc5
+DESCRIPTION:Open Swim\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362323
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Sunday 8:00 AM
+DTSTART;TZID=America/Toronto:20260111T080000
+DTEND;TZID=America/Toronto:20260111T091500
+DTSTAMP;TZID=America/Toronto:20260111T080000
+UID:d5d08155-3b5a-5bbf-b114-a4a4aa5ada91
+DESCRIPTION:Lane Swim\n\n\nDuration: 1h:15m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CycleFit - Ron Edwards - Tuesday 9:15 AM
+DTSTART;TZID=America/Toronto:20260113T091500
+DTEND;TZID=America/Toronto:20260113T100000
+DTSTAMP;TZID=America/Toronto:20260113T091500
+UID:d7ddf505-9bea-5e64-bd87-b4e7f8381e32
+DESCRIPTION:CycleFit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GentleFit - Ron Edwards - Thursday 10:15 AM
+DTSTART;TZID=America/Toronto:20260115T101500
+DTEND;TZID=America/Toronto:20260115T110000
+DTSTAMP;TZID=America/Toronto:20260115T101500
+UID:d9aae78a-c0d7-54dc-9eb3-a540056b0b3b
+DESCRIPTION:GentleFit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363265
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Sunday 2:45 PM
+DTSTART;TZID=America/Toronto:20260111T144500
+DTEND;TZID=America/Toronto:20260111T154500
+DTSTAMP;TZID=America/Toronto:20260111T144500
+UID:db89fcd4-e89e-5ef9-b2d1-ccd60930e902
+DESCRIPTION:Lane Swim\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CycleFIt - Ron Edwards - Thursday 9:15 AM
+DTSTART;TZID=America/Toronto:20260115T091500
+DTEND;TZID=America/Toronto:20260115T101500
+DTSTAMP;TZID=America/Toronto:20260115T091500
+UID:dbf468fe-8e0f-574d-84ac-c0a6b5b17cf2
+DESCRIPTION:CycleFit\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362335
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AquaFit - Ron Edwards - Friday 9:15 AM
+DTSTART;TZID=America/Toronto:20260116T091500
+DTEND;TZID=America/Toronto:20260116T100000
+DTSTAMP;TZID=America/Toronto:20260116T091500
+UID:dfda2c0c-6ab8-5198-a0f8-8aa4a92a3bf4
+DESCRIPTION:AquaFit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walk Fit - Ron Edwards - Wednesday 11:15 AM
+DTSTART;TZID=America/Toronto:20260114T111500
+DTEND;TZID=America/Toronto:20260114T120000
+DTSTAMP;TZID=America/Toronto:20260114T111500
+UID:e0ad63f0-328e-5a7b-89f5-18b3a57f4563
+DESCRIPTION:Walk Fit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-363264
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Friday 7:30 PM
+DTSTART;TZID=America/Toronto:20260116T193000
+DTEND;TZID=America/Toronto:20260116T211500
+DTSTAMP;TZID=America/Toronto:20260116T193000
+UID:e2ded143-c5ec-5420-a307-f13784919247
+DESCRIPTION:Lane Swim\n\n\nDuration: 1h:45m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362355
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Racquetball - Ron Edwards - Monday 5:30 PM
+DTSTART;TZID=America/Toronto:20260112T173000
+DTEND;TZID=America/Toronto:20260112T203000
+DTSTAMP;TZID=America/Toronto:20260112T173000
+UID:e896c851-0059-5113-809f-a41a60c76154
+DESCRIPTION:Racquetball\n\n\nDuration: 3 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362284
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Racquetball - Ron Edwards - Wednesday 6:00 AM
+DTSTART;TZID=America/Toronto:20260114T060000
+DTEND;TZID=America/Toronto:20260114T173000
+DTSTAMP;TZID=America/Toronto:20260114T060000
+UID:f11a75f2-9ab3-5781-bbda-7a314416a893
+DESCRIPTION:Racquetball\n\n\nDuration: 11h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba - Ron Edwards - Saturday 10:30 AM
+DTSTART;TZID=America/Toronto:20260117T103000
+DTEND;TZID=America/Toronto:20260117T113000
+DTSTAMP;TZID=America/Toronto:20260117T103000
+UID:f585172c-bf8a-578c-a56e-196b29840c2c
+DESCRIPTION:Zumba\n\n\nDuration: 1 hours
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362360
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CycleFit - Ron Edwards - Wednesday 7:00 PM
+DTSTART;TZID=America/Toronto:20260114T190000
+DTEND;TZID=America/Toronto:20260114T194500
+DTSTAMP;TZID=America/Toronto:20260114T190000
+UID:f5f3adda-ae5a-53a0-8162-2f7832cccd39
+DESCRIPTION:CycleFit\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racquetball - Ron Edwards - Thursday 6:00 AM
+DTSTART;TZID=America/Toronto:20260115T060000
+DTEND;TZID=America/Toronto:20260115T173000
+DTSTAMP;TZID=America/Toronto:20260115T060000
+UID:f6b07aff-c773-5760-97c8-2600c4f97e04
+DESCRIPTION:Racquetball\n\n\nDuration: 11h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362331
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Tumblers - Ron Edwards - Monday 5:00 PM
+DTSTART;TZID=America/Toronto:20260105T170000
+DTEND;TZID=America/Toronto:20260105T174500
+DTSTAMP;TZID=America/Toronto:20260105T170000
+UID:f7e3a77c-183f-5dfc-856a-39461c919560
+DESCRIPTION:Little Tumblers\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-361958
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Tumblers - Ron Edwards - Monday 5:00 PM
+DTSTART;TZID=America/Toronto:20260105T170000
+DTEND;TZID=America/Toronto:20260105T174500
+DTSTAMP;TZID=America/Toronto:20260105T170000
+UID:f7e3a77c-183f-5dfc-856a-39461c919560
+DESCRIPTION:Little Tumblers\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-361958
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Tumblers - Ron Edwards - Monday 5:00 PM
+DTSTART;TZID=America/Toronto:20260105T170000
+DTEND;TZID=America/Toronto:20260105T174500
+DTSTAMP;TZID=America/Toronto:20260105T170000
+UID:f7e3a77c-183f-5dfc-856a-39461c919560
+DESCRIPTION:Little Tumblers\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-361958
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Tumblers - Ron Edwards - Monday 5:00 PM
+DTSTART;TZID=America/Toronto:20260105T170000
+DTEND;TZID=America/Toronto:20260105T174500
+DTSTAMP;TZID=America/Toronto:20260105T170000
+UID:f7e3a77c-183f-5dfc-856a-39461c919560
+DESCRIPTION:Little Tumblers\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065842Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-361958
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Tumblers - Ron Edwards - Monday 5:00 PM
+DTSTART;TZID=America/Toronto:20260105T170000
+DTEND;TZID=America/Toronto:20260105T174500
+DTSTAMP;TZID=America/Toronto:20260105T170000
+UID:f7e3a77c-183f-5dfc-856a-39461c919560
+DESCRIPTION:Little Tumblers\n\n\nDuration: 45 minutes
+LAST-MODIFIED:20260111T065842Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-361958
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Thursday 10:30 AM
+DTSTART;TZID=America/Toronto:20260115T103000
+DTEND;TZID=America/Toronto:20260115T130000
+DTSTAMP;TZID=America/Toronto:20260115T103000
+UID:f8f5c2dd-a213-55e3-9843-b203ec00f9aa
+DESCRIPTION:Lane Swim\n\n\nDuration: 2h:30m
+LAST-MODIFIED:20260111T065841Z
+LOCATION:500 Drury Lane\, Burlington\, ON\, CA\, L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-362333
 END:VEVENT
 END:VCALENDAR
