@@ -8,19 +8,7 @@ DTEND;TZID=America/Toronto:20260210T170000
 DTSTAMP;TZID=America/Toronto:20260210T090000
 UID:d2885016-4f29-59b0-8575-57ffea00f8ca
 DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040545Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-365128
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greater Together Games 2026
-DTSTART;TZID=America/Toronto:20260208T090000
-DTEND;TZID=America/Toronto:20260208T170000
-DTSTAMP;TZID=America/Toronto:20260208T090000
-UID:d2885016-4f29-59b0-8575-57ffea00f8ca
-DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040545Z
+LAST-MODIFIED:20260125T041235Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-365128
@@ -32,7 +20,7 @@ DTEND;TZID=America/Toronto:20260209T170000
 DTSTAMP;TZID=America/Toronto:20260209T090000
 UID:d2885016-4f29-59b0-8575-57ffea00f8ca
 DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040545Z
+LAST-MODIFIED:20260125T041235Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-365128
@@ -44,7 +32,67 @@ DTEND;TZID=America/Toronto:20260208T170000
 DTSTAMP;TZID=America/Toronto:20260208T090000
 UID:d2885016-4f29-59b0-8575-57ffea00f8ca
 DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
+LAST-MODIFIED:20260125T041235Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-365128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greater Together Games 2026
+DTSTART;TZID=America/Toronto:20260211T090000
+DTEND;TZID=America/Toronto:20260211T170000
+DTSTAMP;TZID=America/Toronto:20260211T090000
+UID:d2885016-4f29-59b0-8575-57ffea00f8ca
+DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
+LAST-MODIFIED:20260125T041235Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-365128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greater Together Games 2026
+DTSTART;TZID=America/Toronto:20260209T090000
+DTEND;TZID=America/Toronto:20260209T170000
+DTSTAMP;TZID=America/Toronto:20260209T090000
+UID:d2885016-4f29-59b0-8575-57ffea00f8ca
+DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
+LAST-MODIFIED:20260125T041235Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-365128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greater Together Games 2026
+DTSTART;TZID=America/Toronto:20260213T090000
+DTEND;TZID=America/Toronto:20260213T170000
+DTSTAMP;TZID=America/Toronto:20260213T090000
+UID:d2885016-4f29-59b0-8575-57ffea00f8ca
+DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
+LAST-MODIFIED:20260125T041235Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-365128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greater Together Games 2026
+DTSTART;TZID=America/Toronto:20260211T090000
+DTEND;TZID=America/Toronto:20260211T170000
+DTSTAMP;TZID=America/Toronto:20260211T090000
+UID:d2885016-4f29-59b0-8575-57ffea00f8ca
+DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
+LAST-MODIFIED:20260125T041235Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-365128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greater Together Games 2026
+DTSTART;TZID=America/Toronto:20260208T090000
+DTEND;TZID=America/Toronto:20260208T170000
+DTSTAMP;TZID=America/Toronto:20260208T090000
+UID:d2885016-4f29-59b0-8575-57ffea00f8ca
+DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
+LAST-MODIFIED:20260125T041235Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-365128
@@ -56,43 +104,7 @@ DTEND;TZID=America/Toronto:20260210T170000
 DTSTAMP;TZID=America/Toronto:20260210T090000
 UID:d2885016-4f29-59b0-8575-57ffea00f8ca
 DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-365128
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greater Together Games 2026
-DTSTART;TZID=America/Toronto:20260209T090000
-DTEND;TZID=America/Toronto:20260209T170000
-DTSTAMP;TZID=America/Toronto:20260209T090000
-UID:d2885016-4f29-59b0-8575-57ffea00f8ca
-DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-365128
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greater Together Games 2026
-DTSTART;TZID=America/Toronto:20260211T090000
-DTEND;TZID=America/Toronto:20260211T170000
-DTSTAMP;TZID=America/Toronto:20260211T090000
-UID:d2885016-4f29-59b0-8575-57ffea00f8ca
-DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-365128
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greater Together Games 2026
-DTSTART;TZID=America/Toronto:20260213T090000
-DTEND;TZID=America/Toronto:20260213T170000
-DTSTAMP;TZID=America/Toronto:20260213T090000
-UID:d2885016-4f29-59b0-8575-57ffea00f8ca
-DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
+LAST-MODIFIED:20260125T041235Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-365128
@@ -104,7 +116,7 @@ DTEND;TZID=America/Toronto:20260212T170000
 DTSTAMP;TZID=America/Toronto:20260212T090000
 UID:d2885016-4f29-59b0-8575-57ffea00f8ca
 DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
+LAST-MODIFIED:20260125T041235Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-365128
@@ -116,31 +128,7 @@ DTEND;TZID=America/Toronto:20260214T170000
 DTSTAMP;TZID=America/Toronto:20260214T090000
 UID:d2885016-4f29-59b0-8575-57ffea00f8ca
 DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-365128
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greater Together Games 2026
-DTSTART;TZID=America/Toronto:20260213T090000
-DTEND;TZID=America/Toronto:20260213T170000
-DTSTAMP;TZID=America/Toronto:20260213T090000
-UID:d2885016-4f29-59b0-8575-57ffea00f8ca
-DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-365128
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greater Together Games 2026
-DTSTART;TZID=America/Toronto:20260211T090000
-DTEND;TZID=America/Toronto:20260211T170000
-DTSTAMP;TZID=America/Toronto:20260211T090000
-UID:d2885016-4f29-59b0-8575-57ffea00f8ca
-DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
+LAST-MODIFIED:20260125T041235Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-365128
@@ -152,7 +140,19 @@ DTEND;TZID=America/Toronto:20260212T170000
 DTSTAMP;TZID=America/Toronto:20260212T090000
 UID:d2885016-4f29-59b0-8575-57ffea00f8ca
 DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
+LAST-MODIFIED:20260125T041235Z
+LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-365128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greater Together Games 2026
+DTSTART;TZID=America/Toronto:20260213T090000
+DTEND;TZID=America/Toronto:20260213T170000
+DTSTAMP;TZID=America/Toronto:20260213T090000
+UID:d2885016-4f29-59b0-8575-57ffea00f8ca
+DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
+LAST-MODIFIED:20260125T041235Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-365128
@@ -164,7 +164,7 @@ DTEND;TZID=America/Toronto:20260214T170000
 DTSTAMP;TZID=America/Toronto:20260214T090000
 UID:d2885016-4f29-59b0-8575-57ffea00f8ca
 DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260124T040546Z
+LAST-MODIFIED:20260125T041235Z
 LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-365128
