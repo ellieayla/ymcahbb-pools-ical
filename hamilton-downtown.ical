@@ -1,16 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//YMCAHBBPools//verselogic.net//
-BEGIN:VEVENT
-SUMMARY:Greater Together Games 2026
-DTSTART;TZID=America/Toronto:20260214T090000
-DTEND;TZID=America/Toronto:20260214T170000
-DTSTAMP;TZID=America/Toronto:20260214T090000
-UID:d2885016-4f29-59b0-8575-57ffea00f8ca
-DESCRIPTION:Greater Together Games\n\n\nDuration: 8 hours
-LAST-MODIFIED:20260221T041913Z
-LOCATION:79 James Street South\, Hamilton\, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-365128
-END:VEVENT
 END:VCALENDAR
